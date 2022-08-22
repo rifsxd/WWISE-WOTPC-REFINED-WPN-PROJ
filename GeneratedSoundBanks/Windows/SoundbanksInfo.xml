@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Software\RXD-WOTPC-GUNS-PROJ\</ProjectRoot>
+		<SourceFilesRoot>D:\Software\RXD-WOTPC-GUNS-PROJ\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Software\RXD-WOTPC-GUNS-PROJ\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Software\RXD-WOTPC-GUNS-PROJ\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="4118357999">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1843221531" Language="SFX" Hash="2731195628">
+			<ObjectPath>\SoundBanks\Default Work Unit\RXD_WPN_PC</ObjectPath>
+			<ShortName>RXD_WPN_PC</ShortName>
+			<Path>RXD_WPN_PC.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1518311144" Name="RXD_WoTB_Mod_gun_PC_auto" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_auto" DurationType="OneShot" DurationMin="2.266009" DurationMax="2.426009">
+					<IncludedMemoryFiles>
+						<File Id="135010635" Language="SFX">
+							<ShortName>135010635.wav</ShortName>
+							<Path>SFX/135010635_3F75BDB9.wem</Path>
+						</File>
+						<File Id="160553911" Language="SFX">
+							<ShortName>160553911.wav</ShortName>
+							<Path>SFX/160553911_3F75BDB9.wem</Path>
+						</File>
+						<File Id="202747280" Language="SFX">
+							<ShortName>202747280.wav</ShortName>
+							<Path>SFX/202747280_3F75BDB9.wem</Path>
+						</File>
+						<File Id="277391909" Language="SFX">
+							<ShortName>277391909.wav</ShortName>
+							<Path>SFX/277391909_3F75BDB9.wem</Path>
+						</File>
+						<File Id="567485312" Language="SFX">
+							<ShortName>567485312.wav</ShortName>
+							<Path>SFX/567485312_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1012942669" Language="SFX">
+							<ShortName>1012942669.wav</ShortName>
+							<Path>SFX/1012942669_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="515684948" Name="RXD_WoTB_Mod_gun_PC_huge" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_huge" DurationType="OneShot" DurationMin="9.170329" DurationMax="13.091923">
+					<IncludedMemoryFiles>
+						<File Id="11353982" Language="SFX">
+							<ShortName>11353982.wav</ShortName>
+							<Path>SFX/11353982_3F75BDB9.wem</Path>
+						</File>
+						<File Id="22128936" Language="SFX">
+							<ShortName>22128936.wav</ShortName>
+							<Path>SFX/22128936_3F75BDB9.wem</Path>
+						</File>
+						<File Id="33766376" Language="SFX">
+							<ShortName>33766376.wav</ShortName>
+							<Path>SFX/33766376_3F75BDB9.wem</Path>
+						</File>
+						<File Id="127438299" Language="SFX">
+							<ShortName>127438299.wav</ShortName>
+							<Path>SFX/127438299_3F75BDB9.wem</Path>
+						</File>
+						<File Id="167374603" Language="SFX">
+							<ShortName>167374603.wav</ShortName>
+							<Path>SFX/167374603_3F75BDB9.wem</Path>
+						</File>
+						<File Id="239175059" Language="SFX">
+							<ShortName>239175059.wav</ShortName>
+							<Path>SFX/239175059_3F75BDB9.wem</Path>
+						</File>
+						<File Id="267557802" Language="SFX">
+							<ShortName>267557802.wav</ShortName>
+							<Path>SFX/267557802_3F75BDB9.wem</Path>
+						</File>
+						<File Id="319036605" Language="SFX">
+							<ShortName>319036605.wav</ShortName>
+							<Path>SFX/319036605_3F75BDB9.wem</Path>
+						</File>
+						<File Id="376152122" Language="SFX">
+							<ShortName>376152122.wav</ShortName>
+							<Path>SFX/376152122_3F75BDB9.wem</Path>
+						</File>
+						<File Id="401016406" Language="SFX">
+							<ShortName>401016406.wav</ShortName>
+							<Path>SFX/401016406_3F75BDB9.wem</Path>
+						</File>
+						<File Id="436989121" Language="SFX">
+							<ShortName>436989121.wav</ShortName>
+							<Path>SFX/436989121_3F75BDB9.wem</Path>
+						</File>
+						<File Id="493858844" Language="SFX">
+							<ShortName>493858844.wav</ShortName>
+							<Path>SFX/493858844_3F75BDB9.wem</Path>
+						</File>
+						<File Id="520081552" Language="SFX">
+							<ShortName>520081552.wav</ShortName>
+							<Path>SFX/520081552_3F75BDB9.wem</Path>
+						</File>
+						<File Id="547160248" Language="SFX">
+							<ShortName>547160248.wav</ShortName>
+							<Path>SFX/547160248_3F75BDB9.wem</Path>
+						</File>
+						<File Id="549851536" Language="SFX">
+							<ShortName>549851536.wav</ShortName>
+							<Path>SFX/549851536_3F75BDB9.wem</Path>
+						</File>
+						<File Id="550408703" Language="SFX">
+							<ShortName>550408703.wav</ShortName>
+							<Path>SFX/550408703_3F75BDB9.wem</Path>
+						</File>
+						<File Id="551153453" Language="SFX">
+							<ShortName>551153453.wav</ShortName>
+							<Path>SFX/551153453_3F75BDB9.wem</Path>
+						</File>
+						<File Id="562806163" Language="SFX">
+							<ShortName>562806163.wav</ShortName>
+							<Path>SFX/562806163_3F75BDB9.wem</Path>
+						</File>
+						<File Id="577899741" Language="SFX">
+							<ShortName>577899741.wav</ShortName>
+							<Path>SFX/577899741_3F75BDB9.wem</Path>
+						</File>
+						<File Id="578828525" Language="SFX">
+							<ShortName>578828525.wav</ShortName>
+							<Path>SFX/578828525_3F75BDB9.wem</Path>
+						</File>
+						<File Id="609393535" Language="SFX">
+							<ShortName>609393535.wav</ShortName>
+							<Path>SFX/609393535_3F75BDB9.wem</Path>
+						</File>
+						<File Id="641994888" Language="SFX">
+							<ShortName>641994888.wav</ShortName>
+							<Path>SFX/641994888_3F75BDB9.wem</Path>
+						</File>
+						<File Id="717520859" Language="SFX">
+							<ShortName>717520859.wav</ShortName>
+							<Path>SFX/717520859_3F75BDB9.wem</Path>
+						</File>
+						<File Id="719968243" Language="SFX">
+							<ShortName>719968243.wav</ShortName>
+							<Path>SFX/719968243_3F75BDB9.wem</Path>
+						</File>
+						<File Id="721913965" Language="SFX">
+							<ShortName>721913965.wav</ShortName>
+							<Path>SFX/721913965_3F75BDB9.wem</Path>
+						</File>
+						<File Id="722269395" Language="SFX">
+							<ShortName>722269395.wav</ShortName>
+							<Path>SFX/722269395_3F75BDB9.wem</Path>
+						</File>
+						<File Id="724800435" Language="SFX">
+							<ShortName>724800435.wav</ShortName>
+							<Path>SFX/724800435_3F75BDB9.wem</Path>
+						</File>
+						<File Id="727265555" Language="SFX">
+							<ShortName>727265555.wav</ShortName>
+							<Path>SFX/727265555_3F75BDB9.wem</Path>
+						</File>
+						<File Id="730495266" Language="SFX">
+							<ShortName>730495266.wav</ShortName>
+							<Path>SFX/730495266_3F75BDB9.wem</Path>
+						</File>
+						<File Id="744100658" Language="SFX">
+							<ShortName>744100658.wav</ShortName>
+							<Path>SFX/744100658_3F75BDB9.wem</Path>
+						</File>
+						<File Id="752910634" Language="SFX">
+							<ShortName>752910634.wav</ShortName>
+							<Path>SFX/752910634_3F75BDB9.wem</Path>
+						</File>
+						<File Id="768625753" Language="SFX">
+							<ShortName>768625753.wav</ShortName>
+							<Path>SFX/768625753_3F75BDB9.wem</Path>
+						</File>
+						<File Id="774907513" Language="SFX">
+							<ShortName>774907513.wav</ShortName>
+							<Path>SFX/774907513_3F75BDB9.wem</Path>
+						</File>
+						<File Id="778570221" Language="SFX">
+							<ShortName>778570221.wav</ShortName>
+							<Path>SFX/778570221_3F75BDB9.wem</Path>
+						</File>
+						<File Id="780584832" Language="SFX">
+							<ShortName>780584832.wav</ShortName>
+							<Path>SFX/780584832_3F75BDB9.wem</Path>
+						</File>
+						<File Id="794483995" Language="SFX">
+							<ShortName>794483995.wav</ShortName>
+							<Path>SFX/794483995_3F75BDB9.wem</Path>
+						</File>
+						<File Id="821195725" Language="SFX">
+							<ShortName>821195725.wav</ShortName>
+							<Path>SFX/821195725_3F75BDB9.wem</Path>
+						</File>
+						<File Id="831125006" Language="SFX">
+							<ShortName>831125006.wav</ShortName>
+							<Path>SFX/831125006_3F75BDB9.wem</Path>
+						</File>
+						<File Id="833493772" Language="SFX">
+							<ShortName>833493772.wav</ShortName>
+							<Path>SFX/833493772_3F75BDB9.wem</Path>
+						</File>
+						<File Id="841660813" Language="SFX">
+							<ShortName>841660813.wav</ShortName>
+							<Path>SFX/841660813_3F75BDB9.wem</Path>
+						</File>
+						<File Id="870353712" Language="SFX">
+							<ShortName>870353712.wav</ShortName>
+							<Path>SFX/870353712_3F75BDB9.wem</Path>
+						</File>
+						<File Id="871155842" Language="SFX">
+							<ShortName>871155842.wav</ShortName>
+							<Path>SFX/871155842_3F75BDB9.wem</Path>
+						</File>
+						<File Id="877172492" Language="SFX">
+							<ShortName>877172492.wav</ShortName>
+							<Path>SFX/877172492_3F75BDB9.wem</Path>
+						</File>
+						<File Id="890099559" Language="SFX">
+							<ShortName>890099559.wav</ShortName>
+							<Path>SFX/890099559_3F75BDB9.wem</Path>
+						</File>
+						<File Id="903358066" Language="SFX">
+							<ShortName>903358066.wav</ShortName>
+							<Path>SFX/903358066_3F75BDB9.wem</Path>
+						</File>
+						<File Id="923648663" Language="SFX">
+							<ShortName>923648663.wav</ShortName>
+							<Path>SFX/923648663_3F75BDB9.wem</Path>
+						</File>
+						<File Id="968524354" Language="SFX">
+							<ShortName>968524354.wav</ShortName>
+							<Path>SFX/968524354_3F75BDB9.wem</Path>
+						</File>
+						<File Id="977183511" Language="SFX">
+							<ShortName>977183511.wav</ShortName>
+							<Path>SFX/977183511_3F75BDB9.wem</Path>
+						</File>
+						<File Id="987422461" Language="SFX">
+							<ShortName>987422461.wav</ShortName>
+							<Path>SFX/987422461_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1009334608" Language="SFX">
+							<ShortName>1009334608.wav</ShortName>
+							<Path>SFX/1009334608_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1029396328" Language="SFX">
+							<ShortName>1029396328.wav</ShortName>
+							<Path>SFX/1029396328_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1036400493" Language="SFX">
+							<ShortName>1036400493.wav</ShortName>
+							<Path>SFX/1036400493_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="802406154" Name="RXD_WoTB_Mod_gun_PC_large" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_large" DurationType="OneShot" DurationMin="9.486667" DurationMax="12.591923">
+					<IncludedMemoryFiles>
+						<File Id="2441488" Language="SFX">
+							<ShortName>2441488.wav</ShortName>
+							<Path>SFX/2441488_3F75BDB9.wem</Path>
+						</File>
+						<File Id="27388206" Language="SFX">
+							<ShortName>27388206.wav</ShortName>
+							<Path>SFX/27388206_3F75BDB9.wem</Path>
+						</File>
+						<File Id="59298386" Language="SFX">
+							<ShortName>59298386.wav</ShortName>
+							<Path>SFX/59298386_3F75BDB9.wem</Path>
+						</File>
+						<File Id="65088276" Language="SFX">
+							<ShortName>65088276.wav</ShortName>
+							<Path>SFX/65088276_3F75BDB9.wem</Path>
+						</File>
+						<File Id="66632802" Language="SFX">
+							<ShortName>66632802.wav</ShortName>
+							<Path>SFX/66632802_3F75BDB9.wem</Path>
+						</File>
+						<File Id="73718405" Language="SFX">
+							<ShortName>73718405.wav</ShortName>
+							<Path>SFX/73718405_3F75BDB9.wem</Path>
+						</File>
+						<File Id="124168223" Language="SFX">
+							<ShortName>124168223.wav</ShortName>
+							<Path>SFX/124168223_3F75BDB9.wem</Path>
+						</File>
+						<File Id="149156620" Language="SFX">
+							<ShortName>149156620.wav</ShortName>
+							<Path>SFX/149156620_3F75BDB9.wem</Path>
+						</File>
+						<File Id="175380166" Language="SFX">
+							<ShortName>175380166.wav</ShortName>
+							<Path>SFX/175380166_3F75BDB9.wem</Path>
+						</File>
+						<File Id="176437278" Language="SFX">
+							<ShortName>176437278.wav</ShortName>
+							<Path>SFX/176437278_3F75BDB9.wem</Path>
+						</File>
+						<File Id="187382694" Language="SFX">
+							<ShortName>187382694.wav</ShortName>
+							<Path>SFX/187382694_3F75BDB9.wem</Path>
+						</File>
+						<File Id="214101401" Language="SFX">
+							<ShortName>214101401.wav</ShortName>
+							<Path>SFX/214101401_3F75BDB9.wem</Path>
+						</File>
+						<File Id="245009891" Language="SFX">
+							<ShortName>245009891.wav</ShortName>
+							<Path>SFX/245009891_3F75BDB9.wem</Path>
+						</File>
+						<File Id="287467204" Language="SFX">
+							<ShortName>287467204.wav</ShortName>
+							<Path>SFX/287467204_3F75BDB9.wem</Path>
+						</File>
+						<File Id="310306071" Language="SFX">
+							<ShortName>310306071.wav</ShortName>
+							<Path>SFX/310306071_3F75BDB9.wem</Path>
+						</File>
+						<File Id="317386690" Language="SFX">
+							<ShortName>317386690.wav</ShortName>
+							<Path>SFX/317386690_3F75BDB9.wem</Path>
+						</File>
+						<File Id="323864629" Language="SFX">
+							<ShortName>323864629.wav</ShortName>
+							<Path>SFX/323864629_3F75BDB9.wem</Path>
+						</File>
+						<File Id="335313954" Language="SFX">
+							<ShortName>335313954.wav</ShortName>
+							<Path>SFX/335313954_3F75BDB9.wem</Path>
+						</File>
+						<File Id="336812750" Language="SFX">
+							<ShortName>336812750.wav</ShortName>
+							<Path>SFX/336812750_3F75BDB9.wem</Path>
+						</File>
+						<File Id="355173823" Language="SFX">
+							<ShortName>355173823.wav</ShortName>
+							<Path>SFX/355173823_3F75BDB9.wem</Path>
+						</File>
+						<File Id="362563212" Language="SFX">
+							<ShortName>362563212.wav</ShortName>
+							<Path>SFX/362563212_3F75BDB9.wem</Path>
+						</File>
+						<File Id="420020464" Language="SFX">
+							<ShortName>420020464.wav</ShortName>
+							<Path>SFX/420020464_3F75BDB9.wem</Path>
+						</File>
+						<File Id="426531924" Language="SFX">
+							<ShortName>426531924.wav</ShortName>
+							<Path>SFX/426531924_3F75BDB9.wem</Path>
+						</File>
+						<File Id="460131813" Language="SFX">
+							<ShortName>460131813.wav</ShortName>
+							<Path>SFX/460131813_3F75BDB9.wem</Path>
+						</File>
+						<File Id="465046561" Language="SFX">
+							<ShortName>465046561.wav</ShortName>
+							<Path>SFX/465046561_3F75BDB9.wem</Path>
+						</File>
+						<File Id="485369673" Language="SFX">
+							<ShortName>485369673.wav</ShortName>
+							<Path>SFX/485369673_3F75BDB9.wem</Path>
+						</File>
+						<File Id="486036623" Language="SFX">
+							<ShortName>486036623.wav</ShortName>
+							<Path>SFX/486036623_3F75BDB9.wem</Path>
+						</File>
+						<File Id="494426596" Language="SFX">
+							<ShortName>494426596.wav</ShortName>
+							<Path>SFX/494426596_3F75BDB9.wem</Path>
+						</File>
+						<File Id="566644902" Language="SFX">
+							<ShortName>566644902.wav</ShortName>
+							<Path>SFX/566644902_3F75BDB9.wem</Path>
+						</File>
+						<File Id="607058483" Language="SFX">
+							<ShortName>607058483.wav</ShortName>
+							<Path>SFX/607058483_3F75BDB9.wem</Path>
+						</File>
+						<File Id="620637617" Language="SFX">
+							<ShortName>620637617.wav</ShortName>
+							<Path>SFX/620637617_3F75BDB9.wem</Path>
+						</File>
+						<File Id="670343689" Language="SFX">
+							<ShortName>670343689.wav</ShortName>
+							<Path>SFX/670343689_3F75BDB9.wem</Path>
+						</File>
+						<File Id="671928504" Language="SFX">
+							<ShortName>671928504.wav</ShortName>
+							<Path>SFX/671928504_3F75BDB9.wem</Path>
+						</File>
+						<File Id="674354134" Language="SFX">
+							<ShortName>674354134.wav</ShortName>
+							<Path>SFX/674354134_3F75BDB9.wem</Path>
+						</File>
+						<File Id="680345649" Language="SFX">
+							<ShortName>680345649.wav</ShortName>
+							<Path>SFX/680345649_3F75BDB9.wem</Path>
+						</File>
+						<File Id="715706297" Language="SFX">
+							<ShortName>715706297.wav</ShortName>
+							<Path>SFX/715706297_3F75BDB9.wem</Path>
+						</File>
+						<File Id="722147472" Language="SFX">
+							<ShortName>722147472.wav</ShortName>
+							<Path>SFX/722147472_3F75BDB9.wem</Path>
+						</File>
+						<File Id="722500869" Language="SFX">
+							<ShortName>722500869.wav</ShortName>
+							<Path>SFX/722500869_3F75BDB9.wem</Path>
+						</File>
+						<File Id="743500029" Language="SFX">
+							<ShortName>743500029.wav</ShortName>
+							<Path>SFX/743500029_3F75BDB9.wem</Path>
+						</File>
+						<File Id="747376627" Language="SFX">
+							<ShortName>747376627.wav</ShortName>
+							<Path>SFX/747376627_3F75BDB9.wem</Path>
+						</File>
+						<File Id="813877948" Language="SFX">
+							<ShortName>813877948.wav</ShortName>
+							<Path>SFX/813877948_3F75BDB9.wem</Path>
+						</File>
+						<File Id="899952059" Language="SFX">
+							<ShortName>899952059.wav</ShortName>
+							<Path>SFX/899952059_3F75BDB9.wem</Path>
+						</File>
+						<File Id="937363955" Language="SFX">
+							<ShortName>937363955.wav</ShortName>
+							<Path>SFX/937363955_3F75BDB9.wem</Path>
+						</File>
+						<File Id="955104428" Language="SFX">
+							<ShortName>955104428.wav</ShortName>
+							<Path>SFX/955104428_3F75BDB9.wem</Path>
+						</File>
+						<File Id="998361497" Language="SFX">
+							<ShortName>998361497.wav</ShortName>
+							<Path>SFX/998361497_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1012804286" Language="SFX">
+							<ShortName>1012804286.wav</ShortName>
+							<Path>SFX/1012804286_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1033297338" Language="SFX">
+							<ShortName>1033297338.wav</ShortName>
+							<Path>SFX/1033297338_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1040637357" Language="SFX">
+							<ShortName>1040637357.wav</ShortName>
+							<Path>SFX/1040637357_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1042021026" Language="SFX">
+							<ShortName>1042021026.wav</ShortName>
+							<Path>SFX/1042021026_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1411958623" Name="RXD_WoTB_Mod_gun_PC_large_dual" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_large_dual" DurationType="OneShot" DurationMin="34.94297" DurationMax="34.952969">
+					<IncludedMemoryFiles>
+						<File Id="15077003" Language="SFX">
+							<ShortName>15077003.wav</ShortName>
+							<Path>SFX/15077003_3F75BDB9.wem</Path>
+						</File>
+						<File Id="92351350" Language="SFX">
+							<ShortName>92351350.wav</ShortName>
+							<Path>SFX/92351350_3F75BDB9.wem</Path>
+						</File>
+						<File Id="119079715" Language="SFX">
+							<ShortName>119079715.wav</ShortName>
+							<Path>SFX/119079715_3F75BDB9.wem</Path>
+						</File>
+						<File Id="139863529" Language="SFX">
+							<ShortName>139863529.wav</ShortName>
+							<Path>SFX/139863529_3F75BDB9.wem</Path>
+						</File>
+						<File Id="147039109" Language="SFX">
+							<ShortName>147039109.wav</ShortName>
+							<Path>SFX/147039109_3F75BDB9.wem</Path>
+						</File>
+						<File Id="170944789" Language="SFX">
+							<ShortName>170944789.wav</ShortName>
+							<Path>SFX/170944789_3F75BDB9.wem</Path>
+						</File>
+						<File Id="172596183" Language="SFX">
+							<ShortName>172596183.wav</ShortName>
+							<Path>SFX/172596183_3F75BDB9.wem</Path>
+						</File>
+						<File Id="180476376" Language="SFX">
+							<ShortName>180476376.wav</ShortName>
+							<Path>SFX/180476376_3F75BDB9.wem</Path>
+						</File>
+						<File Id="198508908" Language="SFX">
+							<ShortName>198508908.wav</ShortName>
+							<Path>SFX/198508908_3F75BDB9.wem</Path>
+						</File>
+						<File Id="214563439" Language="SFX">
+							<ShortName>214563439.wav</ShortName>
+							<Path>SFX/214563439_3F75BDB9.wem</Path>
+						</File>
+						<File Id="270590251" Language="SFX">
+							<ShortName>270590251.wav</ShortName>
+							<Path>SFX/270590251_3F75BDB9.wem</Path>
+						</File>
+						<File Id="293260834" Language="SFX">
+							<ShortName>293260834.wav</ShortName>
+							<Path>SFX/293260834_3F75BDB9.wem</Path>
+						</File>
+						<File Id="304053817" Language="SFX">
+							<ShortName>304053817.wav</ShortName>
+							<Path>SFX/304053817_3F75BDB9.wem</Path>
+						</File>
+						<File Id="305623705" Language="SFX">
+							<ShortName>305623705.wav</ShortName>
+							<Path>SFX/305623705_3F75BDB9.wem</Path>
+						</File>
+						<File Id="308827700" Language="SFX">
+							<ShortName>308827700.wav</ShortName>
+							<Path>SFX/308827700_3F75BDB9.wem</Path>
+						</File>
+						<File Id="310482096" Language="SFX">
+							<ShortName>310482096.wav</ShortName>
+							<Path>SFX/310482096_3F75BDB9.wem</Path>
+						</File>
+						<File Id="314508770" Language="SFX">
+							<ShortName>314508770.wav</ShortName>
+							<Path>SFX/314508770_3F75BDB9.wem</Path>
+						</File>
+						<File Id="326525924" Language="SFX">
+							<ShortName>326525924.wav</ShortName>
+							<Path>SFX/326525924_3F75BDB9.wem</Path>
+						</File>
+						<File Id="327469139" Language="SFX">
+							<ShortName>327469139.wav</ShortName>
+							<Path>SFX/327469139_3F75BDB9.wem</Path>
+						</File>
+						<File Id="364550399" Language="SFX">
+							<ShortName>364550399.wav</ShortName>
+							<Path>SFX/364550399_3F75BDB9.wem</Path>
+						</File>
+						<File Id="405528493" Language="SFX">
+							<ShortName>405528493.wav</ShortName>
+							<Path>SFX/405528493_3F75BDB9.wem</Path>
+						</File>
+						<File Id="485397910" Language="SFX">
+							<ShortName>485397910.wav</ShortName>
+							<Path>SFX/485397910_3F75BDB9.wem</Path>
+						</File>
+						<File Id="492781846" Language="SFX">
+							<ShortName>492781846.wav</ShortName>
+							<Path>SFX/492781846_3F75BDB9.wem</Path>
+						</File>
+						<File Id="565123683" Language="SFX">
+							<ShortName>565123683.wav</ShortName>
+							<Path>SFX/565123683_3F75BDB9.wem</Path>
+						</File>
+						<File Id="584521544" Language="SFX">
+							<ShortName>584521544.wav</ShortName>
+							<Path>SFX/584521544_3F75BDB9.wem</Path>
+						</File>
+						<File Id="597463272" Language="SFX">
+							<ShortName>597463272.wav</ShortName>
+							<Path>SFX/597463272_3F75BDB9.wem</Path>
+						</File>
+						<File Id="624903206" Language="SFX">
+							<ShortName>624903206.wav</ShortName>
+							<Path>SFX/624903206_3F75BDB9.wem</Path>
+						</File>
+						<File Id="643385562" Language="SFX">
+							<ShortName>643385562.wav</ShortName>
+							<Path>SFX/643385562_3F75BDB9.wem</Path>
+						</File>
+						<File Id="663888239" Language="SFX">
+							<ShortName>663888239.wav</ShortName>
+							<Path>SFX/663888239_3F75BDB9.wem</Path>
+						</File>
+						<File Id="705018189" Language="SFX">
+							<ShortName>705018189.wav</ShortName>
+							<Path>SFX/705018189_3F75BDB9.wem</Path>
+						</File>
+						<File Id="720000311" Language="SFX">
+							<ShortName>720000311.wav</ShortName>
+							<Path>SFX/720000311_3F75BDB9.wem</Path>
+						</File>
+						<File Id="765180142" Language="SFX">
+							<ShortName>765180142.wav</ShortName>
+							<Path>SFX/765180142_3F75BDB9.wem</Path>
+						</File>
+						<File Id="770298808" Language="SFX">
+							<ShortName>770298808.wav</ShortName>
+							<Path>SFX/770298808_3F75BDB9.wem</Path>
+						</File>
+						<File Id="790349279" Language="SFX">
+							<ShortName>790349279.wav</ShortName>
+							<Path>SFX/790349279_3F75BDB9.wem</Path>
+						</File>
+						<File Id="798255311" Language="SFX">
+							<ShortName>798255311.wav</ShortName>
+							<Path>SFX/798255311_3F75BDB9.wem</Path>
+						</File>
+						<File Id="806585613" Language="SFX">
+							<ShortName>806585613.wav</ShortName>
+							<Path>SFX/806585613_3F75BDB9.wem</Path>
+						</File>
+						<File Id="817022950" Language="SFX">
+							<ShortName>817022950.wav</ShortName>
+							<Path>SFX/817022950_3F75BDB9.wem</Path>
+						</File>
+						<File Id="822627750" Language="SFX">
+							<ShortName>822627750.wav</ShortName>
+							<Path>SFX/822627750_3F75BDB9.wem</Path>
+						</File>
+						<File Id="841658491" Language="SFX">
+							<ShortName>841658491.wav</ShortName>
+							<Path>SFX/841658491_3F75BDB9.wem</Path>
+						</File>
+						<File Id="843718883" Language="SFX">
+							<ShortName>843718883.wav</ShortName>
+							<Path>SFX/843718883_3F75BDB9.wem</Path>
+						</File>
+						<File Id="880690261" Language="SFX">
+							<ShortName>880690261.wav</ShortName>
+							<Path>SFX/880690261_3F75BDB9.wem</Path>
+						</File>
+						<File Id="961570287" Language="SFX">
+							<ShortName>961570287.wav</ShortName>
+							<Path>SFX/961570287_3F75BDB9.wem</Path>
+						</File>
+						<File Id="988555177" Language="SFX">
+							<ShortName>988555177.wav</ShortName>
+							<Path>SFX/988555177_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1006301983" Language="SFX">
+							<ShortName>1006301983.wav</ShortName>
+							<Path>SFX/1006301983_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1048329436" Language="SFX">
+							<ShortName>1048329436.wav</ShortName>
+							<Path>SFX/1048329436_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1048750853" Language="SFX">
+							<ShortName>1048750853.wav</ShortName>
+							<Path>SFX/1048750853_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1059891247" Language="SFX">
+							<ShortName>1059891247.wav</ShortName>
+							<Path>SFX/1059891247_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1003605365" Name="RXD_WoTB_Mod_gun_PC_large_extra" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_large_extra" DurationType="OneShot" DurationMin="8.746259" DurationMax="12.591923">
+					<IncludedMemoryFiles>
+						<File Id="75555508" Language="SFX">
+							<ShortName>75555508.wav</ShortName>
+							<Path>SFX/75555508_3F75BDB9.wem</Path>
+						</File>
+						<File Id="119222407" Language="SFX">
+							<ShortName>119222407.wav</ShortName>
+							<Path>SFX/119222407_3F75BDB9.wem</Path>
+						</File>
+						<File Id="160754652" Language="SFX">
+							<ShortName>160754652.wav</ShortName>
+							<Path>SFX/160754652_3F75BDB9.wem</Path>
+						</File>
+						<File Id="178141174" Language="SFX">
+							<ShortName>178141174.wav</ShortName>
+							<Path>SFX/178141174_3F75BDB9.wem</Path>
+						</File>
+						<File Id="212708869" Language="SFX">
+							<ShortName>212708869.wav</ShortName>
+							<Path>SFX/212708869_3F75BDB9.wem</Path>
+						</File>
+						<File Id="226034069" Language="SFX">
+							<ShortName>226034069.wav</ShortName>
+							<Path>SFX/226034069_3F75BDB9.wem</Path>
+						</File>
+						<File Id="238399365" Language="SFX">
+							<ShortName>238399365.wav</ShortName>
+							<Path>SFX/238399365_3F75BDB9.wem</Path>
+						</File>
+						<File Id="296933003" Language="SFX">
+							<ShortName>296933003.wav</ShortName>
+							<Path>SFX/296933003_3F75BDB9.wem</Path>
+						</File>
+						<File Id="317101828" Language="SFX">
+							<ShortName>317101828.wav</ShortName>
+							<Path>SFX/317101828_3F75BDB9.wem</Path>
+						</File>
+						<File Id="322757969" Language="SFX">
+							<ShortName>322757969.wav</ShortName>
+							<Path>SFX/322757969_3F75BDB9.wem</Path>
+						</File>
+						<File Id="345474944" Language="SFX">
+							<ShortName>345474944.wav</ShortName>
+							<Path>SFX/345474944_3F75BDB9.wem</Path>
+						</File>
+						<File Id="349874794" Language="SFX">
+							<ShortName>349874794.wav</ShortName>
+							<Path>SFX/349874794_3F75BDB9.wem</Path>
+						</File>
+						<File Id="390091199" Language="SFX">
+							<ShortName>390091199.wav</ShortName>
+							<Path>SFX/390091199_3F75BDB9.wem</Path>
+						</File>
+						<File Id="392328440" Language="SFX">
+							<ShortName>392328440.wav</ShortName>
+							<Path>SFX/392328440_3F75BDB9.wem</Path>
+						</File>
+						<File Id="407133963" Language="SFX">
+							<ShortName>407133963.wav</ShortName>
+							<Path>SFX/407133963_3F75BDB9.wem</Path>
+						</File>
+						<File Id="415036732" Language="SFX">
+							<ShortName>415036732.wav</ShortName>
+							<Path>SFX/415036732_3F75BDB9.wem</Path>
+						</File>
+						<File Id="452627715" Language="SFX">
+							<ShortName>452627715.wav</ShortName>
+							<Path>SFX/452627715_3F75BDB9.wem</Path>
+						</File>
+						<File Id="458529112" Language="SFX">
+							<ShortName>458529112.wav</ShortName>
+							<Path>SFX/458529112_3F75BDB9.wem</Path>
+						</File>
+						<File Id="470855134" Language="SFX">
+							<ShortName>470855134.wav</ShortName>
+							<Path>SFX/470855134_3F75BDB9.wem</Path>
+						</File>
+						<File Id="485524085" Language="SFX">
+							<ShortName>485524085.wav</ShortName>
+							<Path>SFX/485524085_3F75BDB9.wem</Path>
+						</File>
+						<File Id="490394111" Language="SFX">
+							<ShortName>490394111.wav</ShortName>
+							<Path>SFX/490394111_3F75BDB9.wem</Path>
+						</File>
+						<File Id="502368294" Language="SFX">
+							<ShortName>502368294.wav</ShortName>
+							<Path>SFX/502368294_3F75BDB9.wem</Path>
+						</File>
+						<File Id="510480397" Language="SFX">
+							<ShortName>510480397.wav</ShortName>
+							<Path>SFX/510480397_3F75BDB9.wem</Path>
+						</File>
+						<File Id="515570931" Language="SFX">
+							<ShortName>515570931.wav</ShortName>
+							<Path>SFX/515570931_3F75BDB9.wem</Path>
+						</File>
+						<File Id="532053245" Language="SFX">
+							<ShortName>532053245.wav</ShortName>
+							<Path>SFX/532053245_3F75BDB9.wem</Path>
+						</File>
+						<File Id="557450202" Language="SFX">
+							<ShortName>557450202.wav</ShortName>
+							<Path>SFX/557450202_3F75BDB9.wem</Path>
+						</File>
+						<File Id="583354887" Language="SFX">
+							<ShortName>583354887.wav</ShortName>
+							<Path>SFX/583354887_3F75BDB9.wem</Path>
+						</File>
+						<File Id="611009778" Language="SFX">
+							<ShortName>611009778.wav</ShortName>
+							<Path>SFX/611009778_3F75BDB9.wem</Path>
+						</File>
+						<File Id="617979321" Language="SFX">
+							<ShortName>617979321.wav</ShortName>
+							<Path>SFX/617979321_3F75BDB9.wem</Path>
+						</File>
+						<File Id="632341515" Language="SFX">
+							<ShortName>632341515.wav</ShortName>
+							<Path>SFX/632341515_3F75BDB9.wem</Path>
+						</File>
+						<File Id="634697223" Language="SFX">
+							<ShortName>634697223.wav</ShortName>
+							<Path>SFX/634697223_3F75BDB9.wem</Path>
+						</File>
+						<File Id="638072407" Language="SFX">
+							<ShortName>638072407.wav</ShortName>
+							<Path>SFX/638072407_3F75BDB9.wem</Path>
+						</File>
+						<File Id="675360462" Language="SFX">
+							<ShortName>675360462.wav</ShortName>
+							<Path>SFX/675360462_3F75BDB9.wem</Path>
+						</File>
+						<File Id="687966719" Language="SFX">
+							<ShortName>687966719.wav</ShortName>
+							<Path>SFX/687966719_3F75BDB9.wem</Path>
+						</File>
+						<File Id="713900718" Language="SFX">
+							<ShortName>713900718.wav</ShortName>
+							<Path>SFX/713900718_3F75BDB9.wem</Path>
+						</File>
+						<File Id="714452316" Language="SFX">
+							<ShortName>714452316.wav</ShortName>
+							<Path>SFX/714452316_3F75BDB9.wem</Path>
+						</File>
+						<File Id="735919562" Language="SFX">
+							<ShortName>735919562.wav</ShortName>
+							<Path>SFX/735919562_3F75BDB9.wem</Path>
+						</File>
+						<File Id="834651801" Language="SFX">
+							<ShortName>834651801.wav</ShortName>
+							<Path>SFX/834651801_3F75BDB9.wem</Path>
+						</File>
+						<File Id="854510497" Language="SFX">
+							<ShortName>854510497.wav</ShortName>
+							<Path>SFX/854510497_3F75BDB9.wem</Path>
+						</File>
+						<File Id="857779952" Language="SFX">
+							<ShortName>857779952.wav</ShortName>
+							<Path>SFX/857779952_3F75BDB9.wem</Path>
+						</File>
+						<File Id="862130439" Language="SFX">
+							<ShortName>862130439.wav</ShortName>
+							<Path>SFX/862130439_3F75BDB9.wem</Path>
+						</File>
+						<File Id="887389270" Language="SFX">
+							<ShortName>887389270.wav</ShortName>
+							<Path>SFX/887389270_3F75BDB9.wem</Path>
+						</File>
+						<File Id="896639286" Language="SFX">
+							<ShortName>896639286.wav</ShortName>
+							<Path>SFX/896639286_3F75BDB9.wem</Path>
+						</File>
+						<File Id="899853035" Language="SFX">
+							<ShortName>899853035.wav</ShortName>
+							<Path>SFX/899853035_3F75BDB9.wem</Path>
+						</File>
+						<File Id="904225079" Language="SFX">
+							<ShortName>904225079.wav</ShortName>
+							<Path>SFX/904225079_3F75BDB9.wem</Path>
+						</File>
+						<File Id="927935927" Language="SFX">
+							<ShortName>927935927.wav</ShortName>
+							<Path>SFX/927935927_3F75BDB9.wem</Path>
+						</File>
+						<File Id="932348063" Language="SFX">
+							<ShortName>932348063.wav</ShortName>
+							<Path>SFX/932348063_3F75BDB9.wem</Path>
+						</File>
+						<File Id="963930105" Language="SFX">
+							<ShortName>963930105.wav</ShortName>
+							<Path>SFX/963930105_3F75BDB9.wem</Path>
+						</File>
+						<File Id="988185710" Language="SFX">
+							<ShortName>988185710.wav</ShortName>
+							<Path>SFX/988185710_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1058236540" Language="SFX">
+							<ShortName>1058236540.wav</ShortName>
+							<Path>SFX/1058236540_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1067109877" Language="SFX">
+							<ShortName>1067109877.wav</ShortName>
+							<Path>SFX/1067109877_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2026999814" Name="RXD_WoTB_Mod_gun_PC_main" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_main" DurationType="OneShot" DurationMin="6.768707" DurationMax="7.93551">
+					<IncludedMemoryFiles>
+						<File Id="4098344" Language="SFX">
+							<ShortName>4098344.wav</ShortName>
+							<Path>SFX/4098344_3F75BDB9.wem</Path>
+						</File>
+						<File Id="13094908" Language="SFX">
+							<ShortName>13094908.wav</ShortName>
+							<Path>SFX/13094908_3F75BDB9.wem</Path>
+						</File>
+						<File Id="36158395" Language="SFX">
+							<ShortName>36158395.wav</ShortName>
+							<Path>SFX/36158395_3F75BDB9.wem</Path>
+						</File>
+						<File Id="48033344" Language="SFX">
+							<ShortName>48033344.wav</ShortName>
+							<Path>SFX/48033344_3F75BDB9.wem</Path>
+						</File>
+						<File Id="48674154" Language="SFX">
+							<ShortName>48674154.wav</ShortName>
+							<Path>SFX/48674154_3F75BDB9.wem</Path>
+						</File>
+						<File Id="64350097" Language="SFX">
+							<ShortName>64350097.wav</ShortName>
+							<Path>SFX/64350097_3F75BDB9.wem</Path>
+						</File>
+						<File Id="65488598" Language="SFX">
+							<ShortName>65488598.wav</ShortName>
+							<Path>SFX/65488598_3F75BDB9.wem</Path>
+						</File>
+						<File Id="87027371" Language="SFX">
+							<ShortName>87027371.wav</ShortName>
+							<Path>SFX/87027371_3F75BDB9.wem</Path>
+						</File>
+						<File Id="98669925" Language="SFX">
+							<ShortName>98669925.wav</ShortName>
+							<Path>SFX/98669925_3F75BDB9.wem</Path>
+						</File>
+						<File Id="118151713" Language="SFX">
+							<ShortName>118151713.wav</ShortName>
+							<Path>SFX/118151713_3F75BDB9.wem</Path>
+						</File>
+						<File Id="158949328" Language="SFX">
+							<ShortName>158949328.wav</ShortName>
+							<Path>SFX/158949328_3F75BDB9.wem</Path>
+						</File>
+						<File Id="226857627" Language="SFX">
+							<ShortName>226857627.wav</ShortName>
+							<Path>SFX/226857627_3F75BDB9.wem</Path>
+						</File>
+						<File Id="250070716" Language="SFX">
+							<ShortName>250070716.wav</ShortName>
+							<Path>SFX/250070716_3F75BDB9.wem</Path>
+						</File>
+						<File Id="272278587" Language="SFX">
+							<ShortName>272278587.wav</ShortName>
+							<Path>SFX/272278587_3F75BDB9.wem</Path>
+						</File>
+						<File Id="296544244" Language="SFX">
+							<ShortName>296544244.wav</ShortName>
+							<Path>SFX/296544244_3F75BDB9.wem</Path>
+						</File>
+						<File Id="332214081" Language="SFX">
+							<ShortName>332214081.wav</ShortName>
+							<Path>SFX/332214081_3F75BDB9.wem</Path>
+						</File>
+						<File Id="342734606" Language="SFX">
+							<ShortName>342734606.wav</ShortName>
+							<Path>SFX/342734606_3F75BDB9.wem</Path>
+						</File>
+						<File Id="347157146" Language="SFX">
+							<ShortName>347157146.wav</ShortName>
+							<Path>SFX/347157146_3F75BDB9.wem</Path>
+						</File>
+						<File Id="350640993" Language="SFX">
+							<ShortName>350640993.wav</ShortName>
+							<Path>SFX/350640993_3F75BDB9.wem</Path>
+						</File>
+						<File Id="360516605" Language="SFX">
+							<ShortName>360516605.wav</ShortName>
+							<Path>SFX/360516605_3F75BDB9.wem</Path>
+						</File>
+						<File Id="376618118" Language="SFX">
+							<ShortName>376618118.wav</ShortName>
+							<Path>SFX/376618118_3F75BDB9.wem</Path>
+						</File>
+						<File Id="409135671" Language="SFX">
+							<ShortName>409135671.wav</ShortName>
+							<Path>SFX/409135671_3F75BDB9.wem</Path>
+						</File>
+						<File Id="415915843" Language="SFX">
+							<ShortName>415915843.wav</ShortName>
+							<Path>SFX/415915843_3F75BDB9.wem</Path>
+						</File>
+						<File Id="450260335" Language="SFX">
+							<ShortName>450260335.wav</ShortName>
+							<Path>SFX/450260335_3F75BDB9.wem</Path>
+						</File>
+						<File Id="457782315" Language="SFX">
+							<ShortName>457782315.wav</ShortName>
+							<Path>SFX/457782315_3F75BDB9.wem</Path>
+						</File>
+						<File Id="469024634" Language="SFX">
+							<ShortName>469024634.wav</ShortName>
+							<Path>SFX/469024634_3F75BDB9.wem</Path>
+						</File>
+						<File Id="492028566" Language="SFX">
+							<ShortName>492028566.wav</ShortName>
+							<Path>SFX/492028566_3F75BDB9.wem</Path>
+						</File>
+						<File Id="498622189" Language="SFX">
+							<ShortName>498622189.wav</ShortName>
+							<Path>SFX/498622189_3F75BDB9.wem</Path>
+						</File>
+						<File Id="555936414" Language="SFX">
+							<ShortName>555936414.wav</ShortName>
+							<Path>SFX/555936414_3F75BDB9.wem</Path>
+						</File>
+						<File Id="588498352" Language="SFX">
+							<ShortName>588498352.wav</ShortName>
+							<Path>SFX/588498352_3F75BDB9.wem</Path>
+						</File>
+						<File Id="594839541" Language="SFX">
+							<ShortName>594839541.wav</ShortName>
+							<Path>SFX/594839541_3F75BDB9.wem</Path>
+						</File>
+						<File Id="608085382" Language="SFX">
+							<ShortName>608085382.wav</ShortName>
+							<Path>SFX/608085382_3F75BDB9.wem</Path>
+						</File>
+						<File Id="612862860" Language="SFX">
+							<ShortName>612862860.wav</ShortName>
+							<Path>SFX/612862860_3F75BDB9.wem</Path>
+						</File>
+						<File Id="658850794" Language="SFX">
+							<ShortName>658850794.wav</ShortName>
+							<Path>SFX/658850794_3F75BDB9.wem</Path>
+						</File>
+						<File Id="684153330" Language="SFX">
+							<ShortName>684153330.wav</ShortName>
+							<Path>SFX/684153330_3F75BDB9.wem</Path>
+						</File>
+						<File Id="692004189" Language="SFX">
+							<ShortName>692004189.wav</ShortName>
+							<Path>SFX/692004189_3F75BDB9.wem</Path>
+						</File>
+						<File Id="697638510" Language="SFX">
+							<ShortName>697638510.wav</ShortName>
+							<Path>SFX/697638510_3F75BDB9.wem</Path>
+						</File>
+						<File Id="728976867" Language="SFX">
+							<ShortName>728976867.wav</ShortName>
+							<Path>SFX/728976867_3F75BDB9.wem</Path>
+						</File>
+						<File Id="741497124" Language="SFX">
+							<ShortName>741497124.wav</ShortName>
+							<Path>SFX/741497124_3F75BDB9.wem</Path>
+						</File>
+						<File Id="756004772" Language="SFX">
+							<ShortName>756004772.wav</ShortName>
+							<Path>SFX/756004772_3F75BDB9.wem</Path>
+						</File>
+						<File Id="785873900" Language="SFX">
+							<ShortName>785873900.wav</ShortName>
+							<Path>SFX/785873900_3F75BDB9.wem</Path>
+						</File>
+						<File Id="806258865" Language="SFX">
+							<ShortName>806258865.wav</ShortName>
+							<Path>SFX/806258865_3F75BDB9.wem</Path>
+						</File>
+						<File Id="832637952" Language="SFX">
+							<ShortName>832637952.wav</ShortName>
+							<Path>SFX/832637952_3F75BDB9.wem</Path>
+						</File>
+						<File Id="833554173" Language="SFX">
+							<ShortName>833554173.wav</ShortName>
+							<Path>SFX/833554173_3F75BDB9.wem</Path>
+						</File>
+						<File Id="835425061" Language="SFX">
+							<ShortName>835425061.wav</ShortName>
+							<Path>SFX/835425061_3F75BDB9.wem</Path>
+						</File>
+						<File Id="963917508" Language="SFX">
+							<ShortName>963917508.wav</ShortName>
+							<Path>SFX/963917508_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1005792949" Language="SFX">
+							<ShortName>1005792949.wav</ShortName>
+							<Path>SFX/1005792949_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1008757835" Language="SFX">
+							<ShortName>1008757835.wav</ShortName>
+							<Path>SFX/1008757835_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1028099362" Language="SFX">
+							<ShortName>1028099362.wav</ShortName>
+							<Path>SFX/1028099362_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1049301537" Language="SFX">
+							<ShortName>1049301537.wav</ShortName>
+							<Path>SFX/1049301537_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4244462563" Name="RXD_WoTB_Mod_gun_PC_main_dual" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_main_dual" DurationType="OneShot" DurationMin="6.694703" DurationMax="7.301451">
+					<IncludedMemoryFiles>
+						<File Id="354666" Language="SFX">
+							<ShortName>354666.wav</ShortName>
+							<Path>SFX/354666_3F75BDB9.wem</Path>
+						</File>
+						<File Id="4689110" Language="SFX">
+							<ShortName>4689110.wav</ShortName>
+							<Path>SFX/4689110_3F75BDB9.wem</Path>
+						</File>
+						<File Id="6120996" Language="SFX">
+							<ShortName>6120996.wav</ShortName>
+							<Path>SFX/6120996_3F75BDB9.wem</Path>
+						</File>
+						<File Id="27841585" Language="SFX">
+							<ShortName>27841585.wav</ShortName>
+							<Path>SFX/27841585_3F75BDB9.wem</Path>
+						</File>
+						<File Id="65381248" Language="SFX">
+							<ShortName>65381248.wav</ShortName>
+							<Path>SFX/65381248_3F75BDB9.wem</Path>
+						</File>
+						<File Id="81058201" Language="SFX">
+							<ShortName>81058201.wav</ShortName>
+							<Path>SFX/81058201_3F75BDB9.wem</Path>
+						</File>
+						<File Id="102720902" Language="SFX">
+							<ShortName>102720902.wav</ShortName>
+							<Path>SFX/102720902_3F75BDB9.wem</Path>
+						</File>
+						<File Id="112436800" Language="SFX">
+							<ShortName>112436800.wav</ShortName>
+							<Path>SFX/112436800_3F75BDB9.wem</Path>
+						</File>
+						<File Id="122446176" Language="SFX">
+							<ShortName>122446176.wav</ShortName>
+							<Path>SFX/122446176_3F75BDB9.wem</Path>
+						</File>
+						<File Id="134122825" Language="SFX">
+							<ShortName>134122825.wav</ShortName>
+							<Path>SFX/134122825_3F75BDB9.wem</Path>
+						</File>
+						<File Id="134674571" Language="SFX">
+							<ShortName>134674571.wav</ShortName>
+							<Path>SFX/134674571_3F75BDB9.wem</Path>
+						</File>
+						<File Id="140326690" Language="SFX">
+							<ShortName>140326690.wav</ShortName>
+							<Path>SFX/140326690_3F75BDB9.wem</Path>
+						</File>
+						<File Id="154794406" Language="SFX">
+							<ShortName>154794406.wav</ShortName>
+							<Path>SFX/154794406_3F75BDB9.wem</Path>
+						</File>
+						<File Id="158498612" Language="SFX">
+							<ShortName>158498612.wav</ShortName>
+							<Path>SFX/158498612_3F75BDB9.wem</Path>
+						</File>
+						<File Id="174679577" Language="SFX">
+							<ShortName>174679577.wav</ShortName>
+							<Path>SFX/174679577_3F75BDB9.wem</Path>
+						</File>
+						<File Id="175110017" Language="SFX">
+							<ShortName>175110017.wav</ShortName>
+							<Path>SFX/175110017_3F75BDB9.wem</Path>
+						</File>
+						<File Id="185637836" Language="SFX">
+							<ShortName>185637836.wav</ShortName>
+							<Path>SFX/185637836_3F75BDB9.wem</Path>
+						</File>
+						<File Id="246720978" Language="SFX">
+							<ShortName>246720978.wav</ShortName>
+							<Path>SFX/246720978_3F75BDB9.wem</Path>
+						</File>
+						<File Id="274556703" Language="SFX">
+							<ShortName>274556703.wav</ShortName>
+							<Path>SFX/274556703_3F75BDB9.wem</Path>
+						</File>
+						<File Id="285436380" Language="SFX">
+							<ShortName>285436380.wav</ShortName>
+							<Path>SFX/285436380_3F75BDB9.wem</Path>
+						</File>
+						<File Id="286481303" Language="SFX">
+							<ShortName>286481303.wav</ShortName>
+							<Path>SFX/286481303_3F75BDB9.wem</Path>
+						</File>
+						<File Id="300459496" Language="SFX">
+							<ShortName>300459496.wav</ShortName>
+							<Path>SFX/300459496_3F75BDB9.wem</Path>
+						</File>
+						<File Id="303770102" Language="SFX">
+							<ShortName>303770102.wav</ShortName>
+							<Path>SFX/303770102_3F75BDB9.wem</Path>
+						</File>
+						<File Id="356773839" Language="SFX">
+							<ShortName>356773839.wav</ShortName>
+							<Path>SFX/356773839_3F75BDB9.wem</Path>
+						</File>
+						<File Id="412436556" Language="SFX">
+							<ShortName>412436556.wav</ShortName>
+							<Path>SFX/412436556_3F75BDB9.wem</Path>
+						</File>
+						<File Id="529376774" Language="SFX">
+							<ShortName>529376774.wav</ShortName>
+							<Path>SFX/529376774_3F75BDB9.wem</Path>
+						</File>
+						<File Id="544273436" Language="SFX">
+							<ShortName>544273436.wav</ShortName>
+							<Path>SFX/544273436_3F75BDB9.wem</Path>
+						</File>
+						<File Id="563594427" Language="SFX">
+							<ShortName>563594427.wav</ShortName>
+							<Path>SFX/563594427_3F75BDB9.wem</Path>
+						</File>
+						<File Id="575292842" Language="SFX">
+							<ShortName>575292842.wav</ShortName>
+							<Path>SFX/575292842_3F75BDB9.wem</Path>
+						</File>
+						<File Id="577845290" Language="SFX">
+							<ShortName>577845290.wav</ShortName>
+							<Path>SFX/577845290_3F75BDB9.wem</Path>
+						</File>
+						<File Id="589763297" Language="SFX">
+							<ShortName>589763297.wav</ShortName>
+							<Path>SFX/589763297_3F75BDB9.wem</Path>
+						</File>
+						<File Id="591668305" Language="SFX">
+							<ShortName>591668305.wav</ShortName>
+							<Path>SFX/591668305_3F75BDB9.wem</Path>
+						</File>
+						<File Id="602267527" Language="SFX">
+							<ShortName>602267527.wav</ShortName>
+							<Path>SFX/602267527_3F75BDB9.wem</Path>
+						</File>
+						<File Id="618212319" Language="SFX">
+							<ShortName>618212319.wav</ShortName>
+							<Path>SFX/618212319_3F75BDB9.wem</Path>
+						</File>
+						<File Id="637400660" Language="SFX">
+							<ShortName>637400660.wav</ShortName>
+							<Path>SFX/637400660_3F75BDB9.wem</Path>
+						</File>
+						<File Id="666712415" Language="SFX">
+							<ShortName>666712415.wav</ShortName>
+							<Path>SFX/666712415_3F75BDB9.wem</Path>
+						</File>
+						<File Id="677164519" Language="SFX">
+							<ShortName>677164519.wav</ShortName>
+							<Path>SFX/677164519_3F75BDB9.wem</Path>
+						</File>
+						<File Id="708726427" Language="SFX">
+							<ShortName>708726427.wav</ShortName>
+							<Path>SFX/708726427_3F75BDB9.wem</Path>
+						</File>
+						<File Id="719822461" Language="SFX">
+							<ShortName>719822461.wav</ShortName>
+							<Path>SFX/719822461_3F75BDB9.wem</Path>
+						</File>
+						<File Id="733441064" Language="SFX">
+							<ShortName>733441064.wav</ShortName>
+							<Path>SFX/733441064_3F75BDB9.wem</Path>
+						</File>
+						<File Id="742932015" Language="SFX">
+							<ShortName>742932015.wav</ShortName>
+							<Path>SFX/742932015_3F75BDB9.wem</Path>
+						</File>
+						<File Id="802208925" Language="SFX">
+							<ShortName>802208925.wav</ShortName>
+							<Path>SFX/802208925_3F75BDB9.wem</Path>
+						</File>
+						<File Id="848275173" Language="SFX">
+							<ShortName>848275173.wav</ShortName>
+							<Path>SFX/848275173_3F75BDB9.wem</Path>
+						</File>
+						<File Id="862986607" Language="SFX">
+							<ShortName>862986607.wav</ShortName>
+							<Path>SFX/862986607_3F75BDB9.wem</Path>
+						</File>
+						<File Id="867433894" Language="SFX">
+							<ShortName>867433894.wav</ShortName>
+							<Path>SFX/867433894_3F75BDB9.wem</Path>
+						</File>
+						<File Id="884251417" Language="SFX">
+							<ShortName>884251417.wav</ShortName>
+							<Path>SFX/884251417_3F75BDB9.wem</Path>
+						</File>
+						<File Id="901791878" Language="SFX">
+							<ShortName>901791878.wav</ShortName>
+							<Path>SFX/901791878_3F75BDB9.wem</Path>
+						</File>
+						<File Id="925508559" Language="SFX">
+							<ShortName>925508559.wav</ShortName>
+							<Path>SFX/925508559_3F75BDB9.wem</Path>
+						</File>
+						<File Id="953776794" Language="SFX">
+							<ShortName>953776794.wav</ShortName>
+							<Path>SFX/953776794_3F75BDB9.wem</Path>
+						</File>
+						<File Id="965360290" Language="SFX">
+							<ShortName>965360290.wav</ShortName>
+							<Path>SFX/965360290_3F75BDB9.wem</Path>
+						</File>
+						<File Id="966273007" Language="SFX">
+							<ShortName>966273007.wav</ShortName>
+							<Path>SFX/966273007_3F75BDB9.wem</Path>
+						</File>
+						<File Id="988478985" Language="SFX">
+							<ShortName>988478985.wav</ShortName>
+							<Path>SFX/988478985_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1019812716" Language="SFX">
+							<ShortName>1019812716.wav</ShortName>
+							<Path>SFX/1019812716_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1024519393" Language="SFX">
+							<ShortName>1024519393.wav</ShortName>
+							<Path>SFX/1024519393_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1041709564" Language="SFX">
+							<ShortName>1041709564.wav</ShortName>
+							<Path>SFX/1041709564_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1054014272" Language="SFX">
+							<ShortName>1054014272.wav</ShortName>
+							<Path>SFX/1054014272_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1062020508" Language="SFX">
+							<ShortName>1062020508.wav</ShortName>
+							<Path>SFX/1062020508_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="969996249" Name="RXD_WoTB_Mod_gun_PC_main_extra" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_main_extra" DurationType="OneShot" DurationMin="6.495782" DurationMax="7.169161">
+					<IncludedMemoryFiles>
+						<File Id="4807567" Language="SFX">
+							<ShortName>4807567.wav</ShortName>
+							<Path>SFX/4807567_3F75BDB9.wem</Path>
+						</File>
+						<File Id="50219691" Language="SFX">
+							<ShortName>50219691.wav</ShortName>
+							<Path>SFX/50219691_3F75BDB9.wem</Path>
+						</File>
+						<File Id="50906540" Language="SFX">
+							<ShortName>50906540.wav</ShortName>
+							<Path>SFX/50906540_3F75BDB9.wem</Path>
+						</File>
+						<File Id="69088704" Language="SFX">
+							<ShortName>69088704.wav</ShortName>
+							<Path>SFX/69088704_3F75BDB9.wem</Path>
+						</File>
+						<File Id="76485401" Language="SFX">
+							<ShortName>76485401.wav</ShortName>
+							<Path>SFX/76485401_3F75BDB9.wem</Path>
+						</File>
+						<File Id="90605361" Language="SFX">
+							<ShortName>90605361.wav</ShortName>
+							<Path>SFX/90605361_3F75BDB9.wem</Path>
+						</File>
+						<File Id="154118447" Language="SFX">
+							<ShortName>154118447.wav</ShortName>
+							<Path>SFX/154118447_3F75BDB9.wem</Path>
+						</File>
+						<File Id="192857264" Language="SFX">
+							<ShortName>192857264.wav</ShortName>
+							<Path>SFX/192857264_3F75BDB9.wem</Path>
+						</File>
+						<File Id="196508003" Language="SFX">
+							<ShortName>196508003.wav</ShortName>
+							<Path>SFX/196508003_3F75BDB9.wem</Path>
+						</File>
+						<File Id="213140091" Language="SFX">
+							<ShortName>213140091.wav</ShortName>
+							<Path>SFX/213140091_3F75BDB9.wem</Path>
+						</File>
+						<File Id="214322065" Language="SFX">
+							<ShortName>214322065.wav</ShortName>
+							<Path>SFX/214322065_3F75BDB9.wem</Path>
+						</File>
+						<File Id="219667535" Language="SFX">
+							<ShortName>219667535.wav</ShortName>
+							<Path>SFX/219667535_3F75BDB9.wem</Path>
+						</File>
+						<File Id="219931201" Language="SFX">
+							<ShortName>219931201.wav</ShortName>
+							<Path>SFX/219931201_3F75BDB9.wem</Path>
+						</File>
+						<File Id="236603130" Language="SFX">
+							<ShortName>236603130.wav</ShortName>
+							<Path>SFX/236603130_3F75BDB9.wem</Path>
+						</File>
+						<File Id="262881431" Language="SFX">
+							<ShortName>262881431.wav</ShortName>
+							<Path>SFX/262881431_3F75BDB9.wem</Path>
+						</File>
+						<File Id="335701445" Language="SFX">
+							<ShortName>335701445.wav</ShortName>
+							<Path>SFX/335701445_3F75BDB9.wem</Path>
+						</File>
+						<File Id="348610070" Language="SFX">
+							<ShortName>348610070.wav</ShortName>
+							<Path>SFX/348610070_3F75BDB9.wem</Path>
+						</File>
+						<File Id="359885483" Language="SFX">
+							<ShortName>359885483.wav</ShortName>
+							<Path>SFX/359885483_3F75BDB9.wem</Path>
+						</File>
+						<File Id="370605973" Language="SFX">
+							<ShortName>370605973.wav</ShortName>
+							<Path>SFX/370605973_3F75BDB9.wem</Path>
+						</File>
+						<File Id="370821212" Language="SFX">
+							<ShortName>370821212.wav</ShortName>
+							<Path>SFX/370821212_3F75BDB9.wem</Path>
+						</File>
+						<File Id="413084939" Language="SFX">
+							<ShortName>413084939.wav</ShortName>
+							<Path>SFX/413084939_3F75BDB9.wem</Path>
+						</File>
+						<File Id="414894400" Language="SFX">
+							<ShortName>414894400.wav</ShortName>
+							<Path>SFX/414894400_3F75BDB9.wem</Path>
+						</File>
+						<File Id="433427870" Language="SFX">
+							<ShortName>433427870.wav</ShortName>
+							<Path>SFX/433427870_3F75BDB9.wem</Path>
+						</File>
+						<File Id="466603736" Language="SFX">
+							<ShortName>466603736.wav</ShortName>
+							<Path>SFX/466603736_3F75BDB9.wem</Path>
+						</File>
+						<File Id="491595697" Language="SFX">
+							<ShortName>491595697.wav</ShortName>
+							<Path>SFX/491595697_3F75BDB9.wem</Path>
+						</File>
+						<File Id="529528153" Language="SFX">
+							<ShortName>529528153.wav</ShortName>
+							<Path>SFX/529528153_3F75BDB9.wem</Path>
+						</File>
+						<File Id="537330335" Language="SFX">
+							<ShortName>537330335.wav</ShortName>
+							<Path>SFX/537330335_3F75BDB9.wem</Path>
+						</File>
+						<File Id="538768130" Language="SFX">
+							<ShortName>538768130.wav</ShortName>
+							<Path>SFX/538768130_3F75BDB9.wem</Path>
+						</File>
+						<File Id="542728526" Language="SFX">
+							<ShortName>542728526.wav</ShortName>
+							<Path>SFX/542728526_3F75BDB9.wem</Path>
+						</File>
+						<File Id="545622915" Language="SFX">
+							<ShortName>545622915.wav</ShortName>
+							<Path>SFX/545622915_3F75BDB9.wem</Path>
+						</File>
+						<File Id="558021331" Language="SFX">
+							<ShortName>558021331.wav</ShortName>
+							<Path>SFX/558021331_3F75BDB9.wem</Path>
+						</File>
+						<File Id="583275475" Language="SFX">
+							<ShortName>583275475.wav</ShortName>
+							<Path>SFX/583275475_3F75BDB9.wem</Path>
+						</File>
+						<File Id="615283844" Language="SFX">
+							<ShortName>615283844.wav</ShortName>
+							<Path>SFX/615283844_3F75BDB9.wem</Path>
+						</File>
+						<File Id="643642958" Language="SFX">
+							<ShortName>643642958.wav</ShortName>
+							<Path>SFX/643642958_3F75BDB9.wem</Path>
+						</File>
+						<File Id="668785704" Language="SFX">
+							<ShortName>668785704.wav</ShortName>
+							<Path>SFX/668785704_3F75BDB9.wem</Path>
+						</File>
+						<File Id="721205888" Language="SFX">
+							<ShortName>721205888.wav</ShortName>
+							<Path>SFX/721205888_3F75BDB9.wem</Path>
+						</File>
+						<File Id="722880869" Language="SFX">
+							<ShortName>722880869.wav</ShortName>
+							<Path>SFX/722880869_3F75BDB9.wem</Path>
+						</File>
+						<File Id="758237419" Language="SFX">
+							<ShortName>758237419.wav</ShortName>
+							<Path>SFX/758237419_3F75BDB9.wem</Path>
+						</File>
+						<File Id="762220150" Language="SFX">
+							<ShortName>762220150.wav</ShortName>
+							<Path>SFX/762220150_3F75BDB9.wem</Path>
+						</File>
+						<File Id="762971255" Language="SFX">
+							<ShortName>762971255.wav</ShortName>
+							<Path>SFX/762971255_3F75BDB9.wem</Path>
+						</File>
+						<File Id="766757278" Language="SFX">
+							<ShortName>766757278.wav</ShortName>
+							<Path>SFX/766757278_3F75BDB9.wem</Path>
+						</File>
+						<File Id="788721591" Language="SFX">
+							<ShortName>788721591.wav</ShortName>
+							<Path>SFX/788721591_3F75BDB9.wem</Path>
+						</File>
+						<File Id="802657476" Language="SFX">
+							<ShortName>802657476.wav</ShortName>
+							<Path>SFX/802657476_3F75BDB9.wem</Path>
+						</File>
+						<File Id="809995923" Language="SFX">
+							<ShortName>809995923.wav</ShortName>
+							<Path>SFX/809995923_3F75BDB9.wem</Path>
+						</File>
+						<File Id="848474069" Language="SFX">
+							<ShortName>848474069.wav</ShortName>
+							<Path>SFX/848474069_3F75BDB9.wem</Path>
+						</File>
+						<File Id="867256039" Language="SFX">
+							<ShortName>867256039.wav</ShortName>
+							<Path>SFX/867256039_3F75BDB9.wem</Path>
+						</File>
+						<File Id="879610010" Language="SFX">
+							<ShortName>879610010.wav</ShortName>
+							<Path>SFX/879610010_3F75BDB9.wem</Path>
+						</File>
+						<File Id="889640110" Language="SFX">
+							<ShortName>889640110.wav</ShortName>
+							<Path>SFX/889640110_3F75BDB9.wem</Path>
+						</File>
+						<File Id="901813893" Language="SFX">
+							<ShortName>901813893.wav</ShortName>
+							<Path>SFX/901813893_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1001246592" Language="SFX">
+							<ShortName>1001246592.wav</ShortName>
+							<Path>SFX/1001246592_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1019201072" Language="SFX">
+							<ShortName>1019201072.wav</ShortName>
+							<Path>SFX/1019201072_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1023113857" Language="SFX">
+							<ShortName>1023113857.wav</ShortName>
+							<Path>SFX/1023113857_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1024148375" Language="SFX">
+							<ShortName>1024148375.wav</ShortName>
+							<Path>SFX/1024148375_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1060004446" Language="SFX">
+							<ShortName>1060004446.wav</ShortName>
+							<Path>SFX/1060004446_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3460097460" Name="RXD_WoTB_Mod_gun_PC_medium" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_medium" DurationType="OneShot" DurationMin="2.076735" DurationMax="2.303129">
+					<IncludedMemoryFiles>
+						<File Id="208690522" Language="SFX">
+							<ShortName>208690522.wav</ShortName>
+							<Path>SFX/208690522_3F75BDB9.wem</Path>
+						</File>
+						<File Id="368856592" Language="SFX">
+							<ShortName>368856592.wav</ShortName>
+							<Path>SFX/368856592_3F75BDB9.wem</Path>
+						</File>
+						<File Id="589767958" Language="SFX">
+							<ShortName>589767958.wav</ShortName>
+							<Path>SFX/589767958_3F75BDB9.wem</Path>
+						</File>
+						<File Id="697784318" Language="SFX">
+							<ShortName>697784318.wav</ShortName>
+							<Path>SFX/697784318_3F75BDB9.wem</Path>
+						</File>
+						<File Id="827044190" Language="SFX">
+							<ShortName>827044190.wav</ShortName>
+							<Path>SFX/827044190_3F75BDB9.wem</Path>
+						</File>
+						<File Id="927269626" Language="SFX">
+							<ShortName>927269626.wav</ShortName>
+							<Path>SFX/927269626_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2941205814" Name="RXD_WoTB_Mod_gun_PC_small" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_small" DurationType="OneShot" DurationMin="1.652971" DurationMax="1.86195">
+					<IncludedMemoryFiles>
+						<File Id="97281280" Language="SFX">
+							<ShortName>97281280.wav</ShortName>
+							<Path>SFX/97281280_3F75BDB9.wem</Path>
+						</File>
+						<File Id="156125648" Language="SFX">
+							<ShortName>156125648.wav</ShortName>
+							<Path>SFX/156125648_3F75BDB9.wem</Path>
+						</File>
+						<File Id="465551331" Language="SFX">
+							<ShortName>465551331.wav</ShortName>
+							<Path>SFX/465551331_3F75BDB9.wem</Path>
+						</File>
+						<File Id="468169807" Language="SFX">
+							<ShortName>468169807.wav</ShortName>
+							<Path>SFX/468169807_3F75BDB9.wem</Path>
+						</File>
+						<File Id="697582671" Language="SFX">
+							<ShortName>697582671.wav</ShortName>
+							<Path>SFX/697582671_3F75BDB9.wem</Path>
+						</File>
+						<File Id="716276728" Language="SFX">
+							<ShortName>716276728.wav</ShortName>
+							<Path>SFX/716276728_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="1419538075" Name="RTPC_ext_settings_volume_master_fx" ObjectPath="\Game Parameters\RXD\RTPC_ext_settings_volume_master_fx"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="4019149461" Language="SFX" Hash="186182968">
+			<ObjectPath>\SoundBanks\Default Work Unit\RXD_WPN_NPC</ObjectPath>
+			<ShortName>RXD_WPN_NPC</ShortName>
+			<Path>RXD_WPN_NPC.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4053735052" Name="RXD_WoTB_Mod_gun_NPC_auto" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_auto" DurationType="OneShot" DurationMin="4.101338" DurationMax="4.580136">
+					<IncludedMemoryFiles>
+						<File Id="36538557" Language="SFX">
+							<ShortName>36538557.wav</ShortName>
+							<Path>SFX/36538557_3F75BDB9.wem</Path>
+						</File>
+						<File Id="47073113" Language="SFX">
+							<ShortName>47073113.wav</ShortName>
+							<Path>SFX/47073113_3F75BDB9.wem</Path>
+						</File>
+						<File Id="222981400" Language="SFX">
+							<ShortName>222981400.wav</ShortName>
+							<Path>SFX/222981400_3F75BDB9.wem</Path>
+						</File>
+						<File Id="232125258" Language="SFX">
+							<ShortName>232125258.wav</ShortName>
+							<Path>SFX/232125258_3F75BDB9.wem</Path>
+						</File>
+						<File Id="241296076" Language="SFX">
+							<ShortName>241296076.wav</ShortName>
+							<Path>SFX/241296076_3F75BDB9.wem</Path>
+						</File>
+						<File Id="286094297" Language="SFX">
+							<ShortName>286094297.wav</ShortName>
+							<Path>SFX/286094297_3F75BDB9.wem</Path>
+						</File>
+						<File Id="300225439" Language="SFX">
+							<ShortName>300225439.wav</ShortName>
+							<Path>SFX/300225439_3F75BDB9.wem</Path>
+						</File>
+						<File Id="334532209" Language="SFX">
+							<ShortName>334532209.wav</ShortName>
+							<Path>SFX/334532209_3F75BDB9.wem</Path>
+						</File>
+						<File Id="462119501" Language="SFX">
+							<ShortName>462119501.wav</ShortName>
+							<Path>SFX/462119501_3F75BDB9.wem</Path>
+						</File>
+						<File Id="480048364" Language="SFX">
+							<ShortName>480048364.wav</ShortName>
+							<Path>SFX/480048364_3F75BDB9.wem</Path>
+						</File>
+						<File Id="511182989" Language="SFX">
+							<ShortName>511182989.wav</ShortName>
+							<Path>SFX/511182989_3F75BDB9.wem</Path>
+						</File>
+						<File Id="631780867" Language="SFX">
+							<ShortName>631780867.wav</ShortName>
+							<Path>SFX/631780867_3F75BDB9.wem</Path>
+						</File>
+						<File Id="655237303" Language="SFX">
+							<ShortName>655237303.wav</ShortName>
+							<Path>SFX/655237303_3F75BDB9.wem</Path>
+						</File>
+						<File Id="707080256" Language="SFX">
+							<ShortName>707080256.wav</ShortName>
+							<Path>SFX/707080256_3F75BDB9.wem</Path>
+						</File>
+						<File Id="896362506" Language="SFX">
+							<ShortName>896362506.wav</ShortName>
+							<Path>SFX/896362506_3F75BDB9.wem</Path>
+						</File>
+						<File Id="993596911" Language="SFX">
+							<ShortName>993596911.wav</ShortName>
+							<Path>SFX/993596911_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1008161550" Language="SFX">
+							<ShortName>1008161550.wav</ShortName>
+							<Path>SFX/1008161550_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1033146972" Language="SFX">
+							<ShortName>1033146972.wav</ShortName>
+							<Path>SFX/1033146972_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3900571368" Name="RXD_WoTB_Mod_gun_NPC_huge" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_huge" DurationType="OneShot" DurationMin="9.582019" DurationMax="10.388005">
+					<IncludedMemoryFiles>
+						<File Id="144092088" Language="SFX">
+							<ShortName>144092088.wav</ShortName>
+							<Path>SFX/144092088_3F75BDB9.wem</Path>
+						</File>
+						<File Id="314570691" Language="SFX">
+							<ShortName>314570691.wav</ShortName>
+							<Path>SFX/314570691_3F75BDB9.wem</Path>
+						</File>
+						<File Id="364428987" Language="SFX">
+							<ShortName>364428987.wav</ShortName>
+							<Path>SFX/364428987_3F75BDB9.wem</Path>
+						</File>
+						<File Id="413712699" Language="SFX">
+							<ShortName>413712699.wav</ShortName>
+							<Path>SFX/413712699_3F75BDB9.wem</Path>
+						</File>
+						<File Id="423800468" Language="SFX">
+							<ShortName>423800468.wav</ShortName>
+							<Path>SFX/423800468_3F75BDB9.wem</Path>
+						</File>
+						<File Id="508920729" Language="SFX">
+							<ShortName>508920729.wav</ShortName>
+							<Path>SFX/508920729_3F75BDB9.wem</Path>
+						</File>
+						<File Id="510872287" Language="SFX">
+							<ShortName>510872287.wav</ShortName>
+							<Path>SFX/510872287_3F75BDB9.wem</Path>
+						</File>
+						<File Id="543165091" Language="SFX">
+							<ShortName>543165091.wav</ShortName>
+							<Path>SFX/543165091_3F75BDB9.wem</Path>
+						</File>
+						<File Id="563257505" Language="SFX">
+							<ShortName>563257505.wav</ShortName>
+							<Path>SFX/563257505_3F75BDB9.wem</Path>
+						</File>
+						<File Id="631191403" Language="SFX">
+							<ShortName>631191403.wav</ShortName>
+							<Path>SFX/631191403_3F75BDB9.wem</Path>
+						</File>
+						<File Id="668447920" Language="SFX">
+							<ShortName>668447920.wav</ShortName>
+							<Path>SFX/668447920_3F75BDB9.wem</Path>
+						</File>
+						<File Id="795473775" Language="SFX">
+							<ShortName>795473775.wav</ShortName>
+							<Path>SFX/795473775_3F75BDB9.wem</Path>
+						</File>
+						<File Id="896936865" Language="SFX">
+							<ShortName>896936865.wav</ShortName>
+							<Path>SFX/896936865_3F75BDB9.wem</Path>
+						</File>
+						<File Id="897655242" Language="SFX">
+							<ShortName>897655242.wav</ShortName>
+							<Path>SFX/897655242_3F75BDB9.wem</Path>
+						</File>
+						<File Id="906714518" Language="SFX">
+							<ShortName>906714518.wav</ShortName>
+							<Path>SFX/906714518_3F75BDB9.wem</Path>
+						</File>
+						<File Id="929226072" Language="SFX">
+							<ShortName>929226072.wav</ShortName>
+							<Path>SFX/929226072_3F75BDB9.wem</Path>
+						</File>
+						<File Id="954455657" Language="SFX">
+							<ShortName>954455657.wav</ShortName>
+							<Path>SFX/954455657_3F75BDB9.wem</Path>
+						</File>
+						<File Id="995281507" Language="SFX">
+							<ShortName>995281507.wav</ShortName>
+							<Path>SFX/995281507_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4273827094" Name="RXD_WoTB_Mod_gun_NPC_large" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_large" DurationType="OneShot" DurationMin="8.978458" DurationMax="11.683583">
+					<IncludedMemoryFiles>
+						<File Id="90032220" Language="SFX">
+							<ShortName>90032220.wav</ShortName>
+							<Path>SFX/90032220_3F75BDB9.wem</Path>
+						</File>
+						<File Id="121230099" Language="SFX">
+							<ShortName>121230099.wav</ShortName>
+							<Path>SFX/121230099_3F75BDB9.wem</Path>
+						</File>
+						<File Id="290867420" Language="SFX">
+							<ShortName>290867420.wav</ShortName>
+							<Path>SFX/290867420_3F75BDB9.wem</Path>
+						</File>
+						<File Id="304222562" Language="SFX">
+							<ShortName>304222562.wav</ShortName>
+							<Path>SFX/304222562_3F75BDB9.wem</Path>
+						</File>
+						<File Id="342876051" Language="SFX">
+							<ShortName>342876051.wav</ShortName>
+							<Path>SFX/342876051_3F75BDB9.wem</Path>
+						</File>
+						<File Id="367789288" Language="SFX">
+							<ShortName>367789288.wav</ShortName>
+							<Path>SFX/367789288_3F75BDB9.wem</Path>
+						</File>
+						<File Id="432521391" Language="SFX">
+							<ShortName>432521391.wav</ShortName>
+							<Path>SFX/432521391_3F75BDB9.wem</Path>
+						</File>
+						<File Id="534615290" Language="SFX">
+							<ShortName>534615290.wav</ShortName>
+							<Path>SFX/534615290_3F75BDB9.wem</Path>
+						</File>
+						<File Id="610609157" Language="SFX">
+							<ShortName>610609157.wav</ShortName>
+							<Path>SFX/610609157_3F75BDB9.wem</Path>
+						</File>
+						<File Id="615012476" Language="SFX">
+							<ShortName>615012476.wav</ShortName>
+							<Path>SFX/615012476_3F75BDB9.wem</Path>
+						</File>
+						<File Id="630392933" Language="SFX">
+							<ShortName>630392933.wav</ShortName>
+							<Path>SFX/630392933_3F75BDB9.wem</Path>
+						</File>
+						<File Id="725410321" Language="SFX">
+							<ShortName>725410321.wav</ShortName>
+							<Path>SFX/725410321_3F75BDB9.wem</Path>
+						</File>
+						<File Id="776651788" Language="SFX">
+							<ShortName>776651788.wav</ShortName>
+							<Path>SFX/776651788_3F75BDB9.wem</Path>
+						</File>
+						<File Id="819371622" Language="SFX">
+							<ShortName>819371622.wav</ShortName>
+							<Path>SFX/819371622_3F75BDB9.wem</Path>
+						</File>
+						<File Id="851474760" Language="SFX">
+							<ShortName>851474760.wav</ShortName>
+							<Path>SFX/851474760_3F75BDB9.wem</Path>
+						</File>
+						<File Id="880140190" Language="SFX">
+							<ShortName>880140190.wav</ShortName>
+							<Path>SFX/880140190_3F75BDB9.wem</Path>
+						</File>
+						<File Id="889272702" Language="SFX">
+							<ShortName>889272702.wav</ShortName>
+							<Path>SFX/889272702_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1029434383" Language="SFX">
+							<ShortName>1029434383.wav</ShortName>
+							<Path>SFX/1029434383_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="469544595" Name="RXD_WoTB_Mod_gun_NPC_large_dual" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_large_dual" DurationType="OneShot" DurationMin="9.515637" DurationMax="12.66868">
+					<IncludedMemoryFiles>
+						<File Id="6266300" Language="SFX">
+							<ShortName>6266300.wav</ShortName>
+							<Path>SFX/6266300_3F75BDB9.wem</Path>
+						</File>
+						<File Id="12688340" Language="SFX">
+							<ShortName>12688340.wav</ShortName>
+							<Path>SFX/12688340_3F75BDB9.wem</Path>
+						</File>
+						<File Id="128751506" Language="SFX">
+							<ShortName>128751506.wav</ShortName>
+							<Path>SFX/128751506_3F75BDB9.wem</Path>
+						</File>
+						<File Id="326622471" Language="SFX">
+							<ShortName>326622471.wav</ShortName>
+							<Path>SFX/326622471_3F75BDB9.wem</Path>
+						</File>
+						<File Id="327268939" Language="SFX">
+							<ShortName>327268939.wav</ShortName>
+							<Path>SFX/327268939_3F75BDB9.wem</Path>
+						</File>
+						<File Id="383022970" Language="SFX">
+							<ShortName>383022970.wav</ShortName>
+							<Path>SFX/383022970_3F75BDB9.wem</Path>
+						</File>
+						<File Id="417822611" Language="SFX">
+							<ShortName>417822611.wav</ShortName>
+							<Path>SFX/417822611_3F75BDB9.wem</Path>
+						</File>
+						<File Id="419402155" Language="SFX">
+							<ShortName>419402155.wav</ShortName>
+							<Path>SFX/419402155_3F75BDB9.wem</Path>
+						</File>
+						<File Id="457867086" Language="SFX">
+							<ShortName>457867086.wav</ShortName>
+							<Path>SFX/457867086_3F75BDB9.wem</Path>
+						</File>
+						<File Id="472338509" Language="SFX">
+							<ShortName>472338509.wav</ShortName>
+							<Path>SFX/472338509_3F75BDB9.wem</Path>
+						</File>
+						<File Id="518558068" Language="SFX">
+							<ShortName>518558068.wav</ShortName>
+							<Path>SFX/518558068_3F75BDB9.wem</Path>
+						</File>
+						<File Id="549368014" Language="SFX">
+							<ShortName>549368014.wav</ShortName>
+							<Path>SFX/549368014_3F75BDB9.wem</Path>
+						</File>
+						<File Id="579120839" Language="SFX">
+							<ShortName>579120839.wav</ShortName>
+							<Path>SFX/579120839_3F75BDB9.wem</Path>
+						</File>
+						<File Id="581603810" Language="SFX">
+							<ShortName>581603810.wav</ShortName>
+							<Path>SFX/581603810_3F75BDB9.wem</Path>
+						</File>
+						<File Id="652655081" Language="SFX">
+							<ShortName>652655081.wav</ShortName>
+							<Path>SFX/652655081_3F75BDB9.wem</Path>
+						</File>
+						<File Id="811929683" Language="SFX">
+							<ShortName>811929683.wav</ShortName>
+							<Path>SFX/811929683_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1060202515" Language="SFX">
+							<ShortName>1060202515.wav</ShortName>
+							<Path>SFX/1060202515_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1072224348" Language="SFX">
+							<ShortName>1072224348.wav</ShortName>
+							<Path>SFX/1072224348_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2476030249" Name="RXD_WoTB_Mod_gun_NPC_large_extra" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_large_extra" DurationType="OneShot" DurationMin="8.218685" DurationMax="8.318889">
+					<IncludedMemoryFiles>
+						<File Id="2509961" Language="SFX">
+							<ShortName>2509961.wav</ShortName>
+							<Path>SFX/2509961_3F75BDB9.wem</Path>
+						</File>
+						<File Id="30479172" Language="SFX">
+							<ShortName>30479172.wav</ShortName>
+							<Path>SFX/30479172_3F75BDB9.wem</Path>
+						</File>
+						<File Id="54047635" Language="SFX">
+							<ShortName>54047635.wav</ShortName>
+							<Path>SFX/54047635_3F75BDB9.wem</Path>
+						</File>
+						<File Id="217335871" Language="SFX">
+							<ShortName>217335871.wav</ShortName>
+							<Path>SFX/217335871_3F75BDB9.wem</Path>
+						</File>
+						<File Id="245815790" Language="SFX">
+							<ShortName>245815790.wav</ShortName>
+							<Path>SFX/245815790_3F75BDB9.wem</Path>
+						</File>
+						<File Id="286034822" Language="SFX">
+							<ShortName>286034822.wav</ShortName>
+							<Path>SFX/286034822_3F75BDB9.wem</Path>
+						</File>
+						<File Id="292206435" Language="SFX">
+							<ShortName>292206435.wav</ShortName>
+							<Path>SFX/292206435_3F75BDB9.wem</Path>
+						</File>
+						<File Id="310822477" Language="SFX">
+							<ShortName>310822477.wav</ShortName>
+							<Path>SFX/310822477_3F75BDB9.wem</Path>
+						</File>
+						<File Id="372313888" Language="SFX">
+							<ShortName>372313888.wav</ShortName>
+							<Path>SFX/372313888_3F75BDB9.wem</Path>
+						</File>
+						<File Id="386187666" Language="SFX">
+							<ShortName>386187666.wav</ShortName>
+							<Path>SFX/386187666_3F75BDB9.wem</Path>
+						</File>
+						<File Id="392575629" Language="SFX">
+							<ShortName>392575629.wav</ShortName>
+							<Path>SFX/392575629_3F75BDB9.wem</Path>
+						</File>
+						<File Id="623390543" Language="SFX">
+							<ShortName>623390543.wav</ShortName>
+							<Path>SFX/623390543_3F75BDB9.wem</Path>
+						</File>
+						<File Id="629725644" Language="SFX">
+							<ShortName>629725644.wav</ShortName>
+							<Path>SFX/629725644_3F75BDB9.wem</Path>
+						</File>
+						<File Id="654181092" Language="SFX">
+							<ShortName>654181092.wav</ShortName>
+							<Path>SFX/654181092_3F75BDB9.wem</Path>
+						</File>
+						<File Id="811140731" Language="SFX">
+							<ShortName>811140731.wav</ShortName>
+							<Path>SFX/811140731_3F75BDB9.wem</Path>
+						</File>
+						<File Id="911295154" Language="SFX">
+							<ShortName>911295154.wav</ShortName>
+							<Path>SFX/911295154_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1005273648" Language="SFX">
+							<ShortName>1005273648.wav</ShortName>
+							<Path>SFX/1005273648_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1026394637" Language="SFX">
+							<ShortName>1026394637.wav</ShortName>
+							<Path>SFX/1026394637_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2710877186" Name="RXD_WoTB_Mod_gun_NPC_main" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_main" DurationType="OneShot" DurationMin="6.867301" DurationMax="7.37814">
+					<IncludedMemoryFiles>
+						<File Id="21992038" Language="SFX">
+							<ShortName>21992038.wav</ShortName>
+							<Path>SFX/21992038_3F75BDB9.wem</Path>
+						</File>
+						<File Id="31438814" Language="SFX">
+							<ShortName>31438814.wav</ShortName>
+							<Path>SFX/31438814_3F75BDB9.wem</Path>
+						</File>
+						<File Id="35383822" Language="SFX">
+							<ShortName>35383822.wav</ShortName>
+							<Path>SFX/35383822_3F75BDB9.wem</Path>
+						</File>
+						<File Id="210460135" Language="SFX">
+							<ShortName>210460135.wav</ShortName>
+							<Path>SFX/210460135_3F75BDB9.wem</Path>
+						</File>
+						<File Id="261443749" Language="SFX">
+							<ShortName>261443749.wav</ShortName>
+							<Path>SFX/261443749_3F75BDB9.wem</Path>
+						</File>
+						<File Id="356331990" Language="SFX">
+							<ShortName>356331990.wav</ShortName>
+							<Path>SFX/356331990_3F75BDB9.wem</Path>
+						</File>
+						<File Id="404303748" Language="SFX">
+							<ShortName>404303748.wav</ShortName>
+							<Path>SFX/404303748_3F75BDB9.wem</Path>
+						</File>
+						<File Id="415412958" Language="SFX">
+							<ShortName>415412958.wav</ShortName>
+							<Path>SFX/415412958_3F75BDB9.wem</Path>
+						</File>
+						<File Id="424220313" Language="SFX">
+							<ShortName>424220313.wav</ShortName>
+							<Path>SFX/424220313_3F75BDB9.wem</Path>
+						</File>
+						<File Id="500426243" Language="SFX">
+							<ShortName>500426243.wav</ShortName>
+							<Path>SFX/500426243_3F75BDB9.wem</Path>
+						</File>
+						<File Id="634736054" Language="SFX">
+							<ShortName>634736054.wav</ShortName>
+							<Path>SFX/634736054_3F75BDB9.wem</Path>
+						</File>
+						<File Id="717336303" Language="SFX">
+							<ShortName>717336303.wav</ShortName>
+							<Path>SFX/717336303_3F75BDB9.wem</Path>
+						</File>
+						<File Id="782034506" Language="SFX">
+							<ShortName>782034506.wav</ShortName>
+							<Path>SFX/782034506_3F75BDB9.wem</Path>
+						</File>
+						<File Id="816485395" Language="SFX">
+							<ShortName>816485395.wav</ShortName>
+							<Path>SFX/816485395_3F75BDB9.wem</Path>
+						</File>
+						<File Id="859396313" Language="SFX">
+							<ShortName>859396313.wav</ShortName>
+							<Path>SFX/859396313_3F75BDB9.wem</Path>
+						</File>
+						<File Id="914619018" Language="SFX">
+							<ShortName>914619018.wav</ShortName>
+							<Path>SFX/914619018_3F75BDB9.wem</Path>
+						</File>
+						<File Id="990002885" Language="SFX">
+							<ShortName>990002885.wav</ShortName>
+							<Path>SFX/990002885_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1013038158" Language="SFX">
+							<ShortName>1013038158.wav</ShortName>
+							<Path>SFX/1013038158_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2981877767" Name="RXD_WoTB_Mod_gun_NPC_main_dual" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_main_dual" DurationType="OneShot" DurationMin="7.189249" DurationMax="7.628693">
+					<IncludedMemoryFiles>
+						<File Id="12556214" Language="SFX">
+							<ShortName>12556214.wav</ShortName>
+							<Path>SFX/12556214_3F75BDB9.wem</Path>
+						</File>
+						<File Id="106619688" Language="SFX">
+							<ShortName>106619688.wav</ShortName>
+							<Path>SFX/106619688_3F75BDB9.wem</Path>
+						</File>
+						<File Id="176387538" Language="SFX">
+							<ShortName>176387538.wav</ShortName>
+							<Path>SFX/176387538_3F75BDB9.wem</Path>
+						</File>
+						<File Id="208837967" Language="SFX">
+							<ShortName>208837967.wav</ShortName>
+							<Path>SFX/208837967_3F75BDB9.wem</Path>
+						</File>
+						<File Id="242098988" Language="SFX">
+							<ShortName>242098988.wav</ShortName>
+							<Path>SFX/242098988_3F75BDB9.wem</Path>
+						</File>
+						<File Id="320088547" Language="SFX">
+							<ShortName>320088547.wav</ShortName>
+							<Path>SFX/320088547_3F75BDB9.wem</Path>
+						</File>
+						<File Id="476309211" Language="SFX">
+							<ShortName>476309211.wav</ShortName>
+							<Path>SFX/476309211_3F75BDB9.wem</Path>
+						</File>
+						<File Id="551184068" Language="SFX">
+							<ShortName>551184068.wav</ShortName>
+							<Path>SFX/551184068_3F75BDB9.wem</Path>
+						</File>
+						<File Id="583585096" Language="SFX">
+							<ShortName>583585096.wav</ShortName>
+							<Path>SFX/583585096_3F75BDB9.wem</Path>
+						</File>
+						<File Id="639314106" Language="SFX">
+							<ShortName>639314106.wav</ShortName>
+							<Path>SFX/639314106_3F75BDB9.wem</Path>
+						</File>
+						<File Id="705859896" Language="SFX">
+							<ShortName>705859896.wav</ShortName>
+							<Path>SFX/705859896_3F75BDB9.wem</Path>
+						</File>
+						<File Id="728369837" Language="SFX">
+							<ShortName>728369837.wav</ShortName>
+							<Path>SFX/728369837_3F75BDB9.wem</Path>
+						</File>
+						<File Id="776250217" Language="SFX">
+							<ShortName>776250217.wav</ShortName>
+							<Path>SFX/776250217_3F75BDB9.wem</Path>
+						</File>
+						<File Id="784989381" Language="SFX">
+							<ShortName>784989381.wav</ShortName>
+							<Path>SFX/784989381_3F75BDB9.wem</Path>
+						</File>
+						<File Id="982652251" Language="SFX">
+							<ShortName>982652251.wav</ShortName>
+							<Path>SFX/982652251_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1015473285" Language="SFX">
+							<ShortName>1015473285.wav</ShortName>
+							<Path>SFX/1015473285_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1056696238" Language="SFX">
+							<ShortName>1056696238.wav</ShortName>
+							<Path>SFX/1056696238_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1067691690" Language="SFX">
+							<ShortName>1067691690.wav</ShortName>
+							<Path>SFX/1067691690_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1955168333" Name="RXD_WoTB_Mod_gun_NPC_main_extra" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_main_extra" DurationType="OneShot" DurationMin="6.913742" DurationMax="7.296871">
+					<IncludedMemoryFiles>
+						<File Id="188664045" Language="SFX">
+							<ShortName>188664045.wav</ShortName>
+							<Path>SFX/188664045_3F75BDB9.wem</Path>
+						</File>
+						<File Id="376718780" Language="SFX">
+							<ShortName>376718780.wav</ShortName>
+							<Path>SFX/376718780_3F75BDB9.wem</Path>
+						</File>
+						<File Id="406853868" Language="SFX">
+							<ShortName>406853868.wav</ShortName>
+							<Path>SFX/406853868_3F75BDB9.wem</Path>
+						</File>
+						<File Id="428763796" Language="SFX">
+							<ShortName>428763796.wav</ShortName>
+							<Path>SFX/428763796_3F75BDB9.wem</Path>
+						</File>
+						<File Id="456841042" Language="SFX">
+							<ShortName>456841042.wav</ShortName>
+							<Path>SFX/456841042_3F75BDB9.wem</Path>
+						</File>
+						<File Id="495014020" Language="SFX">
+							<ShortName>495014020.wav</ShortName>
+							<Path>SFX/495014020_3F75BDB9.wem</Path>
+						</File>
+						<File Id="502844301" Language="SFX">
+							<ShortName>502844301.wav</ShortName>
+							<Path>SFX/502844301_3F75BDB9.wem</Path>
+						</File>
+						<File Id="552331686" Language="SFX">
+							<ShortName>552331686.wav</ShortName>
+							<Path>SFX/552331686_3F75BDB9.wem</Path>
+						</File>
+						<File Id="623174970" Language="SFX">
+							<ShortName>623174970.wav</ShortName>
+							<Path>SFX/623174970_3F75BDB9.wem</Path>
+						</File>
+						<File Id="691709208" Language="SFX">
+							<ShortName>691709208.wav</ShortName>
+							<Path>SFX/691709208_3F75BDB9.wem</Path>
+						</File>
+						<File Id="821547379" Language="SFX">
+							<ShortName>821547379.wav</ShortName>
+							<Path>SFX/821547379_3F75BDB9.wem</Path>
+						</File>
+						<File Id="834568755" Language="SFX">
+							<ShortName>834568755.wav</ShortName>
+							<Path>SFX/834568755_3F75BDB9.wem</Path>
+						</File>
+						<File Id="843351406" Language="SFX">
+							<ShortName>843351406.wav</ShortName>
+							<Path>SFX/843351406_3F75BDB9.wem</Path>
+						</File>
+						<File Id="921200533" Language="SFX">
+							<ShortName>921200533.wav</ShortName>
+							<Path>SFX/921200533_3F75BDB9.wem</Path>
+						</File>
+						<File Id="972222091" Language="SFX">
+							<ShortName>972222091.wav</ShortName>
+							<Path>SFX/972222091_3F75BDB9.wem</Path>
+						</File>
+						<File Id="982534899" Language="SFX">
+							<ShortName>982534899.wav</ShortName>
+							<Path>SFX/982534899_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1007844853" Language="SFX">
+							<ShortName>1007844853.wav</ShortName>
+							<Path>SFX/1007844853_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1030140749" Language="SFX">
+							<ShortName>1030140749.wav</ShortName>
+							<Path>SFX/1030140749_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="834042584" Name="RXD_WoTB_Mod_gun_NPC_medium" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_medium" DurationType="OneShot" DurationMin="5.146667" DurationMax="5.52">
+					<IncludedMemoryFiles>
+						<File Id="49504214" Language="SFX">
+							<ShortName>49504214.wav</ShortName>
+							<Path>SFX/49504214_3F75BDB9.wem</Path>
+						</File>
+						<File Id="49601174" Language="SFX">
+							<ShortName>49601174.wav</ShortName>
+							<Path>SFX/49601174_3F75BDB9.wem</Path>
+						</File>
+						<File Id="65441108" Language="SFX">
+							<ShortName>65441108.wav</ShortName>
+							<Path>SFX/65441108_3F75BDB9.wem</Path>
+						</File>
+						<File Id="77696339" Language="SFX">
+							<ShortName>77696339.wav</ShortName>
+							<Path>SFX/77696339_3F75BDB9.wem</Path>
+						</File>
+						<File Id="79943087" Language="SFX">
+							<ShortName>79943087.wav</ShortName>
+							<Path>SFX/79943087_3F75BDB9.wem</Path>
+						</File>
+						<File Id="227907273" Language="SFX">
+							<ShortName>227907273.wav</ShortName>
+							<Path>SFX/227907273_3F75BDB9.wem</Path>
+						</File>
+						<File Id="467613257" Language="SFX">
+							<ShortName>467613257.wav</ShortName>
+							<Path>SFX/467613257_3F75BDB9.wem</Path>
+						</File>
+						<File Id="493942442" Language="SFX">
+							<ShortName>493942442.wav</ShortName>
+							<Path>SFX/493942442_3F75BDB9.wem</Path>
+						</File>
+						<File Id="530188309" Language="SFX">
+							<ShortName>530188309.wav</ShortName>
+							<Path>SFX/530188309_3F75BDB9.wem</Path>
+						</File>
+						<File Id="538392308" Language="SFX">
+							<ShortName>538392308.wav</ShortName>
+							<Path>SFX/538392308_3F75BDB9.wem</Path>
+						</File>
+						<File Id="572141040" Language="SFX">
+							<ShortName>572141040.wav</ShortName>
+							<Path>SFX/572141040_3F75BDB9.wem</Path>
+						</File>
+						<File Id="760131101" Language="SFX">
+							<ShortName>760131101.wav</ShortName>
+							<Path>SFX/760131101_3F75BDB9.wem</Path>
+						</File>
+						<File Id="771630340" Language="SFX">
+							<ShortName>771630340.wav</ShortName>
+							<Path>SFX/771630340_3F75BDB9.wem</Path>
+						</File>
+						<File Id="850520647" Language="SFX">
+							<ShortName>850520647.wav</ShortName>
+							<Path>SFX/850520647_3F75BDB9.wem</Path>
+						</File>
+						<File Id="916551065" Language="SFX">
+							<ShortName>916551065.wav</ShortName>
+							<Path>SFX/916551065_3F75BDB9.wem</Path>
+						</File>
+						<File Id="934862375" Language="SFX">
+							<ShortName>934862375.wav</ShortName>
+							<Path>SFX/934862375_3F75BDB9.wem</Path>
+						</File>
+						<File Id="941262133" Language="SFX">
+							<ShortName>941262133.wav</ShortName>
+							<Path>SFX/941262133_3F75BDB9.wem</Path>
+						</File>
+						<File Id="945072386" Language="SFX">
+							<ShortName>945072386.wav</ShortName>
+							<Path>SFX/945072386_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="394242994" Name="RXD_WoTB_Mod_gun_NPC_small" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_small" DurationType="OneShot" DurationMin="4.800725" DurationMax="5.230295">
+					<IncludedMemoryFiles>
+						<File Id="94866558" Language="SFX">
+							<ShortName>94866558.wav</ShortName>
+							<Path>SFX/94866558_3F75BDB9.wem</Path>
+						</File>
+						<File Id="177634363" Language="SFX">
+							<ShortName>177634363.wav</ShortName>
+							<Path>SFX/177634363_3F75BDB9.wem</Path>
+						</File>
+						<File Id="199272088" Language="SFX">
+							<ShortName>199272088.wav</ShortName>
+							<Path>SFX/199272088_3F75BDB9.wem</Path>
+						</File>
+						<File Id="229873342" Language="SFX">
+							<ShortName>229873342.wav</ShortName>
+							<Path>SFX/229873342_3F75BDB9.wem</Path>
+						</File>
+						<File Id="231532745" Language="SFX">
+							<ShortName>231532745.wav</ShortName>
+							<Path>SFX/231532745_3F75BDB9.wem</Path>
+						</File>
+						<File Id="232077087" Language="SFX">
+							<ShortName>232077087.wav</ShortName>
+							<Path>SFX/232077087_3F75BDB9.wem</Path>
+						</File>
+						<File Id="474913846" Language="SFX">
+							<ShortName>474913846.wav</ShortName>
+							<Path>SFX/474913846_3F75BDB9.wem</Path>
+						</File>
+						<File Id="484091536" Language="SFX">
+							<ShortName>484091536.wav</ShortName>
+							<Path>SFX/484091536_3F75BDB9.wem</Path>
+						</File>
+						<File Id="493122691" Language="SFX">
+							<ShortName>493122691.wav</ShortName>
+							<Path>SFX/493122691_3F75BDB9.wem</Path>
+						</File>
+						<File Id="633151204" Language="SFX">
+							<ShortName>633151204.wav</ShortName>
+							<Path>SFX/633151204_3F75BDB9.wem</Path>
+						</File>
+						<File Id="707688038" Language="SFX">
+							<ShortName>707688038.wav</ShortName>
+							<Path>SFX/707688038_3F75BDB9.wem</Path>
+						</File>
+						<File Id="746579034" Language="SFX">
+							<ShortName>746579034.wav</ShortName>
+							<Path>SFX/746579034_3F75BDB9.wem</Path>
+						</File>
+						<File Id="837150511" Language="SFX">
+							<ShortName>837150511.wav</ShortName>
+							<Path>SFX/837150511_3F75BDB9.wem</Path>
+						</File>
+						<File Id="838972636" Language="SFX">
+							<ShortName>838972636.wav</ShortName>
+							<Path>SFX/838972636_3F75BDB9.wem</Path>
+						</File>
+						<File Id="881093615" Language="SFX">
+							<ShortName>881093615.wav</ShortName>
+							<Path>SFX/881093615_3F75BDB9.wem</Path>
+						</File>
+						<File Id="918416119" Language="SFX">
+							<ShortName>918416119.wav</ShortName>
+							<Path>SFX/918416119_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1008604630" Language="SFX">
+							<ShortName>1008604630.wav</ShortName>
+							<Path>SFX/1008604630_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1073084754" Language="SFX">
+							<ShortName>1073084754.wav</ShortName>
+							<Path>SFX/1073084754_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="406513959" Name="RTPC_int_azimuth" ObjectPath="\Game Parameters\RXD\RTPC_int_azimuth"/>
+				<GameParameter Id="1419538075" Name="RTPC_ext_settings_volume_master_fx" ObjectPath="\Game Parameters\RXD\RTPC_ext_settings_volume_master_fx"/>
+				<GameParameter Id="2064811990" Name="RTPC_int_wpn_600m_npc" ObjectPath="\Game Parameters\RXD\RTPC_int_wpn_600m_npc"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
