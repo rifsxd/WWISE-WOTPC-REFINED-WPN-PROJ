@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}" SchemaVersion="97">
-<Busses>
-<WorkUnit Name="Default Work Unit" ID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}" PersistMode="Standalone">
-<ChildrenList>
-<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
-<ReferenceList>
-<Reference Name="AudioDevice">
-<ObjectRef Name="System" ID="{4CD97F24-1FA9-4334-82C6-E371A7A51E93}" WorkUnitID="{4E4E5CEF-BF9B-414A-B547-90244203047B}"/>
-</Reference>
-</ReferenceList>
-<ChildrenList>
-<Bus Name="a2eynhl4" ID="{6D47D680-B64D-4BF4-BEF4-05AD560FD66D}"/>
-<Bus Name="a04ba58j" ID="{B55C2988-35EB-4161-9286-2CB0C689B83B}"/>
-<Bus Name="a0_m5cba" ID="{E217B645-928D-42FB-9456-5097B49C9AE7}"/>
-<Bus Name="a0fxvt92" ID="{1E89FDB1-C852-4D9A-B427-F638A1E2AEF2}"/>
-<Bus Name="a0xk_v91" ID="{435F1E8B-86EC-478D-ADB0-08503C27A46F}"/>
-<Bus Name="a1we98oc" ID="{6FE37A62-C4AB-44C3-A9BC-DCA339F8A8A7}"/>
-<Bus Name="a4mv7w7k" ID="{F68F3EBC-824F-4A9F-9B26-606D2B2F48C5}"/>
-<Bus Name="a37uh43m" ID="{01A63A99-5262-41F1-BD8A-78CA57784A81}"/>
-<Bus Name="a19ivhz0" ID="{3073AA33-C212-4BB1-8424-A815EFECD9D3}"/>
-<Bus Name="a50nos24" ID="{A806A26A-C193-4E7F-B702-46E3FD15A425}"/>
-</ChildrenList>
-</Bus>
-<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
-<ReferenceList>
-<Reference Name="AudioDevice">
-<ObjectRef Name="Default_Motion_Device" ID="{49D1BE5F-2306-4FB9-84AA-0D4D55C64CC1}" WorkUnitID="{4E4E5CEF-BF9B-414A-B547-90244203047B}"/>
-</Reference>
-</ReferenceList>
-</Bus>
-</ChildrenList>
-</WorkUnit>
-</Busses>
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{4CD97F24-1FA9-4334-82C6-E371A7A51E93}" WorkUnitID="{4E4E5CEF-BF9B-414A-B547-90244203047B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="a2eynhl4" ID="{6D47D680-B64D-4BF4-BEF4-05AD560FD66D}"/>
+						<Bus Name="a04ba58j" ID="{B55C2988-35EB-4161-9286-2CB0C689B83B}"/>
+						<Bus Name="a0_m5cba" ID="{E217B645-928D-42FB-9456-5097B49C9AE7}"/>
+						<Bus Name="a0fxvt92" ID="{1E89FDB1-C852-4D9A-B427-F638A1E2AEF2}"/>
+						<Bus Name="a0xk_v91" ID="{435F1E8B-86EC-478D-ADB0-08503C27A46F}"/>
+						<Bus Name="a1we98oc" ID="{6FE37A62-C4AB-44C3-A9BC-DCA339F8A8A7}"/>
+						<Bus Name="a4mv7w7k" ID="{F68F3EBC-824F-4A9F-9B26-606D2B2F48C5}"/>
+						<Bus Name="a37uh43m" ID="{01A63A99-5262-41F1-BD8A-78CA57784A81}"/>
+						<Bus Name="a19ivhz0" ID="{3073AA33-C212-4BB1-8424-A815EFECD9D3}"/>
+						<Bus Name="a50nos24" ID="{A806A26A-C193-4E7F-B702-46E3FD15A425}"/>
+						<Bus Name="pc" ID="{5ED7AA04-A09D-47BA-AC1A-980614E21651}"/>
+						<Bus Name="npc" ID="{F8C89B02-F97E-4963-990A-61A525846C81}"/>
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="Default_Motion_Device" ID="{49D1BE5F-2306-4FB9-84AA-0D4D55C64CC1}" WorkUnitID="{4E4E5CEF-BF9B-414A-B547-90244203047B}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
 </WwiseDocument>

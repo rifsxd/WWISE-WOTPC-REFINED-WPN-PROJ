@@ -83,7 +83,7 @@
 									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+									<ObjectRef Name="pc" ID="{5ED7AA04-A09D-47BA-AC1A-980614E21651}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -21728,7 +21728,7 @@
 									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+									<ObjectRef Name="npc" ID="{F8C89B02-F97E-4963-990A-61A525846C81}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
