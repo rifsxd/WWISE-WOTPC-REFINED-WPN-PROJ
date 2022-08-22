@@ -20,8 +20,6 @@
 						<Bus Name="a37uh43m" ID="{01A63A99-5262-41F1-BD8A-78CA57784A81}"/>
 						<Bus Name="a19ivhz0" ID="{3073AA33-C212-4BB1-8424-A815EFECD9D3}"/>
 						<Bus Name="a50nos24" ID="{A806A26A-C193-4E7F-B702-46E3FD15A425}"/>
-						<Bus Name="pc" ID="{5ED7AA04-A09D-47BA-AC1A-980614E21651}"/>
-						<Bus Name="npc" ID="{F8C89B02-F97E-4963-990A-61A525846C81}"/>
 					</ChildrenList>
 				</Bus>
 				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
