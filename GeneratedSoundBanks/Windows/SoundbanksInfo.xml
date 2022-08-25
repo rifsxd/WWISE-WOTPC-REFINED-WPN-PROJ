@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1843221531" Language="SFX" Hash="2731195628">
+		<SoundBank Id="1843221531" Language="SFX" Hash="1173364859">
 			<ObjectPath>\SoundBanks\Default Work Unit\RXD_WPN_PC</ObjectPath>
 			<ShortName>RXD_WPN_PC</ShortName>
 			<Path>RXD_WPN_PC.bnk</Path>
@@ -1578,7 +1578,7 @@
 				<GameParameter Id="1419538075" Name="RTPC_ext_settings_volume_master_fx" ObjectPath="\Game Parameters\RXD\RTPC_ext_settings_volume_master_fx"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="4019149461" Language="SFX" Hash="189619406">
+		<SoundBank Id="4019149461" Language="SFX" Hash="236990445">
 			<ObjectPath>\SoundBanks\Default Work Unit\RXD_WPN_NPC</ObjectPath>
 			<ShortName>RXD_WPN_NPC</ShortName>
 			<Path>RXD_WPN_NPC.bnk</Path>

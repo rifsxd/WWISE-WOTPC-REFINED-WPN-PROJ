@@ -118,12 +118,6 @@
 						<Property Name="SlewRateUp" Type="Real64" Value="2"/>
 					</PropertyList>
 				</GameParameter>
-				<GameParameter Name="RTPC_ext_settings_volume_master_fx" ID="{FA0249FD-F233-4FEC-98AC-2F9C3AF2ECBE}">
-					<PropertyList>
-						<Property Name="InitialValue" Type="Real64" Value="1"/>
-						<Property Name="Max" Type="Real64" Value="1"/>
-					</PropertyList>
-				</GameParameter>
 				<GameParameter Name="RTPC_ext_tracks_speed_lt" ID="{3AF423B0-5500-4ED1-A624-8C5A421A7F0F}">
 					<PropertyList>
 						<Property Name="InitialValue" Type="Real64" Value="0"/>
@@ -266,6 +260,12 @@
 						<Property Name="RTPCRamping" Type="int16" Value="1"/>
 						<Property Name="SlewRateDown" Type="Real64" Value="4"/>
 						<Property Name="SlewRateUp" Type="Real64" Value="4"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="RTPC_ext_settings_volume_master_fx" ID="{42942A1C-A868-44D4-8F13-CE13DBFAEF45}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="1"/>
+						<Property Name="Max" Type="Real64" Value="1"/>
 					</PropertyList>
 				</GameParameter>
 			</ChildrenList>

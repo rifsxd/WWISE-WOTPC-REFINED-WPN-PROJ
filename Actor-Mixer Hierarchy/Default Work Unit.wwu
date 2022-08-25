@@ -14,27 +14,21 @@
 						</Property>
 						<Property Name="OutputBusVolume" Type="Real64">
 							<RTPCList>
-								<RTPC Name="" ID="{5D573198-2A44-44E4-8B84-D3AA5DDB8AD6}" ShortID="767828009">
+								<RTPC Name="" ID="{DA01C3A0-7B84-4F0B-B4B7-DA0E3DDD5A3E}" ShortID="345453847">
 									<ReferenceList>
 										<Reference Name="ControlInput">
-											<ObjectRef Name="RTPC_ext_settings_volume_master_fx" ID="{FA0249FD-F233-4FEC-98AC-2F9C3AF2ECBE}" WorkUnitID="{D730BCC9-D1BF-4142-B331-EEDB1CC80D76}"/>
+											<ObjectRef Name="RTPC_ext_settings_volume_master_fx" ID="{42942A1C-A868-44D4-8F13-CE13DBFAEF45}" WorkUnitID="{D730BCC9-D1BF-4142-B331-EEDB1CC80D76}"/>
 										</Reference>
 									</ReferenceList>
-									<Curve Name="" ID="{C7FEC600-8380-4C11-A511-1A4D7F62003F}">
+									<Curve Name="" ID="{3001CCAA-5CCF-4858-8E22-BACE8CCE11F4}">
 										<PropertyList>
-											<Property Name="Flags" Type="int32" Value="65537"/>
+											<Property Name="Flags" Type="int32" Value="3"/>
 										</PropertyList>
 										<PointList>
 											<Point>
 												<XPos>0</XPos>
-												<YPos>-1</YPos>
+												<YPos>-200</YPos>
 												<Flags>5</Flags>
-											</Point>
-											<Point>
-												<XPos>0.200000002980232</XPos>
-												<YPos>0</YPos>
-												<Flags>0</Flags>
-												<SegmentShape>Constant</SegmentShape>
 											</Point>
 											<Point>
 												<XPos>1</XPos>
@@ -71,7 +65,6 @@
 										<Value>0</Value>
 									</ValueList>
 								</Property>
-								<Property Name="OverrideOutput" Type="bool" Value="True"/>
 								<Property Name="UseMaxSoundPerInstance" Type="bool">
 									<ValueList>
 										<Value>True</Value>
