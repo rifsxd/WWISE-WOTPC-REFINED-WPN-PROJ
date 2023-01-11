@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="97">
 	<ValidationCacheItem File="D:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\WoT_WPN_Project.wproj" DateLow="1661116335" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\WoT_WPN_Project.Administrator.wsettings" DateLow="1668218470" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1660856418" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Virtual Acoustics\Default Work Unit.wwu" DateLow="1660856418" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Triggers\Default Work Unit.wwu" DateLow="1660856418" DateHigh="0"/>
