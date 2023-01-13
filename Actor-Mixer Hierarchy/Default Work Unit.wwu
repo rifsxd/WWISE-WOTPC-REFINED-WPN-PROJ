@@ -37579,7 +37579,7 @@
 										<StateRef Name="STATE_view_play_mode_sniper" ID="{80BFDD17-9DE6-4ADC-B0E8-4456DFCB5F50}"/>
 										<CustomState Name="" ID="{E3F6AA12-9E9A-4CBB-9731-CFE0EC296E7D}" ShortID="500538384">
 											<PropertyList>
-												<Property Name="Volume" Type="Real64" Value="-10"/>
+												<Property Name="Lowpass" Type="int16" Value="20"/>
 											</PropertyList>
 										</CustomState>
 									</CustomState>

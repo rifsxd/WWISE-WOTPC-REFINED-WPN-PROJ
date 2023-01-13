@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="97">
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\WoT_WPN_Project.wproj" DateLow="1661116335" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\WoT_WPN_Project.Rifs.wsettings" DateLow="1673099285" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\WoT_WPN_Project.Rifs.wsettings" DateLow="1673428848" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1660856418" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Virtual Acoustics\Default Work Unit.wwu" DateLow="1660856418" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Triggers\Default Work Unit.wwu" DateLow="1660856418" DateHigh="0"/>
@@ -21,7 +21,7 @@
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Game Parameters\RXD.wwu" DateLow="1661428305" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Game Parameters\Default Work Unit.wwu" DateLow="1661115410" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Events\RXD.wwu" DateLow="1661116402" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Events\Default Work Unit.wwu" DateLow="1660856350" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Events\Default Work Unit.wwu" DateLow="1673428162" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Effects\Factory Reflect.wwu" DateLow="1660856348" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Effects\Factory McDSP Effects.wwu" DateLow="1660856348" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1660856348" DateHigh="0"/>
@@ -43,5 +43,5 @@
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1660856348" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1660856348" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1661115707" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1661428305" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1673428106" DateHigh="0"/>
 </ValidationCache>
