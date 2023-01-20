@@ -223,6 +223,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="RXD_WoTB_Mod_gun_NPC_tow" ID="{86911A32-FAA3-43CB-A966-1166CFF1854B}">
+					<ChildrenList>
+						<Action Name="" ID="{FB8D257A-2F25-4E03-8F21-60C37E128A5F}" ShortID="997112400">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tow" ID="{51BB6CFB-55D2-49B9-ACA3-C5042CA4666F}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="RXD_WoTB_Mod_gun_PC_tow" ID="{6E8D0D2B-4A80-4C0F-9DB3-14AFFB5101F8}">
+					<ChildrenList>
+						<Action Name="" ID="{908660CF-6F3B-4143-8726-955BEB400653}" ShortID="261867665">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tow" ID="{80AD33BD-E7A0-4972-AE1A-E45D0417FC9A}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

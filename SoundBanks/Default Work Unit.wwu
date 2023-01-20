@@ -7,6 +7,7 @@
 					<ObjectInclusionList>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_NPC_large_dual" ID="{127EC4A9-18F0-4198-A7AC-0037DBE0490B}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_NPC_main_dual" ID="{DA96A128-7AE1-4292-B118-AC91AB70F6C7}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RXD_WoTB_Mod_gun_NPC_tow" ID="{86911A32-FAA3-43CB-A966-1166CFF1854B}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_NPC_large" ID="{E2FE4C65-AF91-4474-86F5-FD680D5ED998}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_NPC_main" ID="{D56E34D2-F3B3-470E-90C7-2EAF2B33AED7}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_NPC_medium" ID="{65448671-6580-4824-AD7D-2735D60324D2}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
@@ -29,6 +30,7 @@
 						<ObjectRef Name="RXD_WoTB_Mod_gun_PC_main" ID="{CD88A659-2866-4676-A6CB-36736F4C694E}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_PC_medium" ID="{E82686A1-B1F8-49A9-A28D-C39E27C4DC73}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_PC_large" ID="{16C96CB7-1421-4A82-BAA3-8B272E288F9E}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RXD_WoTB_Mod_gun_PC_tow" ID="{6E8D0D2B-4A80-4C0F-9DB3-14AFFB5101F8}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_PC_small" ID="{8856DECA-41C5-4C6A-890C-5092DAB79C9C}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="RXD_WoTB_Mod_gun_PC_main_dual" ID="{439E0F1C-2750-4EB5-94B0-2B0F1D1EBBC7}" WorkUnitID="{40F9CB33-2F46-4B36-90A8-303ACF50B7E7}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>

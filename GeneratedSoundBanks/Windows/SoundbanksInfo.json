@@ -26,7 +26,7 @@
    {
     "Id": "1843221531",
     "Language": "SFX",
-    "Hash": "1173364859",
+    "Hash": "2571237318",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_PC",
     "ShortName": "RXD_WPN_PC",
     "Path": "RXD_WPN_PC.bnk",
@@ -2398,6 +2398,40 @@
         "Path": "SFX\\716276728_3F75BDB9.wem"
        }
       ]
+     },
+     {
+      "Id": "1924398521",
+      "Name": "RXD_WoTB_Mod_gun_PC_tow",
+      "ObjectPath": "\\Events\\RXD\\RXD_WoTB_Mod_gun_PC_tow",
+      "DurationType": "OneShot",
+      "DurationMin": "4.868934",
+      "DurationMax": "4.868934",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "201771920",
+        "Language": "SFX",
+        "ShortName": "563249656.wav",
+        "Path": "SFX\\563249656_3F75BDB9.wem"
+       },
+       {
+        "Id": "219298883",
+        "Language": "SFX",
+        "ShortName": "1054270198.wav",
+        "Path": "SFX\\1054270198_3F75BDB9.wem"
+       },
+       {
+        "Id": "761939463",
+        "Language": "SFX",
+        "ShortName": "20675485.wav",
+        "Path": "SFX\\20675485_3F75BDB9.wem"
+       },
+       {
+        "Id": "1072280062",
+        "Language": "SFX",
+        "ShortName": "395368146.wav",
+        "Path": "SFX\\395368146_3F75BDB9.wem"
+       }
+      ]
      }
     ],
     "GameParameters": [
@@ -2411,7 +2445,7 @@
    {
     "Id": "4019149461",
     "Language": "SFX",
-    "Hash": "2156994935",
+    "Hash": "2297176333",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_NPC",
     "ShortName": "RXD_WPN_NPC",
     "Path": "RXD_WPN_NPC.bnk",
@@ -3593,6 +3627,28 @@
         "Language": "SFX",
         "ShortName": "1073084754.wav",
         "Path": "SFX\\1073084754_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1960536709",
+      "Name": "RXD_WoTB_Mod_gun_NPC_tow",
+      "ObjectPath": "\\Events\\RXD\\RXD_WoTB_Mod_gun_NPC_tow",
+      "DurationType": "OneShot",
+      "DurationMin": "4.877324",
+      "DurationMax": "4.888934",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "201771920",
+        "Language": "SFX",
+        "ShortName": "563249656.wav",
+        "Path": "SFX\\563249656_3F75BDB9.wem"
+       },
+       {
+        "Id": "219298883",
+        "Language": "SFX",
+        "ShortName": "1054270198.wav",
+        "Path": "SFX\\1054270198_3F75BDB9.wem"
        }
       ]
      }
