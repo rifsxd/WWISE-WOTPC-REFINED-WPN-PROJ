@@ -20,6 +20,9 @@
 						<Bus Name="a37uh43m" ID="{01A63A99-5262-41F1-BD8A-78CA57784A81}"/>
 						<Bus Name="a19ivhz0" ID="{3073AA33-C212-4BB1-8424-A815EFECD9D3}"/>
 						<Bus Name="a50nos24" ID="{A806A26A-C193-4E7F-B702-46E3FD15A425}"/>
+						<Bus Name="weapon_npc" ID="{98B3A788-D77C-4D2A-BD59-AC63F1D57F70}"/>
+						<Bus Name="weapon_pc" ID="{CA4964E7-37C7-4544-AAD7-7D40A90C17B8}"/>
+						<Bus Name="weapon" ID="{63F6DB91-2EE2-4515-BD0D-615B07729E62}"/>
 					</ChildrenList>
 				</Bus>
 				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">

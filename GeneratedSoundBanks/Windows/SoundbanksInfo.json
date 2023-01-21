@@ -18,7 +18,7 @@
    {
     "Id": "1355168291",
     "Language": "SFX",
-    "Hash": "987095938",
+    "Hash": "83451980",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk"
@@ -26,7 +26,7 @@
    {
     "Id": "1843221531",
     "Language": "SFX",
-    "Hash": "2571237318",
+    "Hash": "1932610782",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_PC",
     "ShortName": "RXD_WPN_PC",
     "Path": "RXD_WPN_PC.bnk",
@@ -2445,7 +2445,7 @@
    {
     "Id": "4019149461",
     "Language": "SFX",
-    "Hash": "2297176333",
+    "Hash": "2125772775",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_NPC",
     "ShortName": "RXD_WPN_NPC",
     "Path": "RXD_WPN_NPC.bnk",

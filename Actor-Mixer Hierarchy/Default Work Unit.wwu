@@ -7,6 +7,11 @@
 					<PropertyList>
 						<Property Name="EnableDiffraction" Type="bool" Value="True"/>
 						<Property Name="IgnoreParentMaxSoundInstance" Type="bool" Value="True"/>
+						<Property Name="MakeUpGain" Type="Real64">
+							<ValueList>
+								<Value>4</Value>
+							</ValueList>
+						</Property>
 						<Property Name="MaxSoundPerInstance" Type="int16">
 							<ValueList>
 								<Value>0</Value>
@@ -53,7 +58,7 @@
 							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+							<ObjectRef Name="weapon" ID="{63F6DB91-2EE2-4515-BD0D-615B07729E62}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
@@ -76,7 +81,7 @@
 									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+									<ObjectRef Name="weapon_pc" ID="{CA4964E7-37C7-4544-AAD7-7D40A90C17B8}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -24749,7 +24754,7 @@
 									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+									<ObjectRef Name="weapon_npc" ID="{98B3A788-D77C-4D2A-BD59-AC63F1D57F70}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
