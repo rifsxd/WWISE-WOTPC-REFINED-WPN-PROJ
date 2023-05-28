@@ -3,7 +3,7 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{0FE8F3E7-B609-434D-AA44-E8AAA6CC2ACE}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="RXD_WoTB_Mod_gun_NPC_huge_extra" ID="{B27CE637-E69B-4873-B509-41ACB48BBD43}">
+				<Event Name="play_wpn_huge_extra_3p" ID="{B27CE637-E69B-4873-B509-41ACB48BBD43}">
 					<ChildrenList>
 						<Action Name="" ID="{FD81A354-63E0-4E82-9A86-2763DB5516D5}" ShortID="791836293">
 							<ReferenceList>
@@ -14,7 +14,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_WoTB_Mod_gun_PC_huge_extra" ID="{70519622-265C-4B9E-9A95-9FF782AEC8AA}">
+				<Event Name="play_wpn_huge_extra_1p" ID="{70519622-265C-4B9E-9A95-9FF782AEC8AA}">
 					<ChildrenList>
 						<Action Name="" ID="{83C1F672-03A0-4AEC-A2D8-FECE3B4F4FC2}" ShortID="948190205">
 							<ReferenceList>

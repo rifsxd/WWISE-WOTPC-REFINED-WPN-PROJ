@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
 	<RootPaths>
-		<ProjectRoot>F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\</ProjectRoot>
-		<SourceFilesRoot>F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\</ProjectRoot>
+		<SourceFilesRoot>F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>F:\Github\WWISE-WOTPC-REFINED-WPN-PROJ\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,12 +16,32 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1843221531" Language="SFX" Hash="1932610782">
+		<SoundBank Id="1843221531" Language="SFX" Hash="4257865879">
 			<ObjectPath>\SoundBanks\Default Work Unit\RXD_WPN_PC</ObjectPath>
 			<ShortName>RXD_WPN_PC</ShortName>
 			<Path>RXD_WPN_PC.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1518311144" Name="RXD_WoTB_Mod_gun_PC_auto" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_auto" DurationType="OneShot" DurationMin="2.266009" DurationMax="2.426009">
+				<Event Id="537782068" Name="guns_tow_tow_pc" ObjectPath="\Events\RXD\guns_tow_tow_pc" DurationType="OneShot" DurationMin="4.868934" DurationMax="4.868934">
+					<IncludedMemoryFiles>
+						<File Id="201771920" Language="SFX">
+							<ShortName>563249656.wav</ShortName>
+							<Path>SFX\563249656_3F75BDB9.wem</Path>
+						</File>
+						<File Id="219298883" Language="SFX">
+							<ShortName>1054270198.wav</ShortName>
+							<Path>SFX\1054270198_3F75BDB9.wem</Path>
+						</File>
+						<File Id="761939463" Language="SFX">
+							<ShortName>20675485.wav</ShortName>
+							<Path>SFX\20675485_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1072280062" Language="SFX">
+							<ShortName>395368146.wav</ShortName>
+							<Path>SFX\395368146_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="737532225" Name="play_wpn_auto_1p" ObjectPath="\Events\RXD\play_wpn_auto_1p" DurationType="OneShot" DurationMin="2.266009" DurationMax="2.426009">
 					<IncludedMemoryFiles>
 						<File Id="135010635" Language="SFX">
 							<ShortName>135010635.wav</ShortName>
@@ -49,7 +69,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="515684948" Name="RXD_WoTB_Mod_gun_PC_huge" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_huge" DurationType="OneShot" DurationMin="9.170329" DurationMax="13.091923">
+				<Event Id="2047267481" Name="play_wpn_huge_1p" ObjectPath="\Events\RXD\play_wpn_huge_1p" DurationType="OneShot" DurationMin="9.170329" DurationMax="13.091923">
 					<IncludedMemoryFiles>
 						<File Id="11353982" Language="SFX">
 							<ShortName>11353982.wav</ShortName>
@@ -261,7 +281,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="802406154" Name="RXD_WoTB_Mod_gun_PC_large" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_large" DurationType="OneShot" DurationMin="9.486667" DurationMax="12.591923">
+				<Event Id="2447106537" Name="play_wpn_large_1p" ObjectPath="\Events\RXD\play_wpn_large_1p" DurationType="OneShot" DurationMin="9.486667" DurationMax="12.591923">
 					<IncludedMemoryFiles>
 						<File Id="2441488" Language="SFX">
 							<ShortName>2441488.wav</ShortName>
@@ -461,7 +481,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1411958623" Name="RXD_WoTB_Mod_gun_PC_large_dual" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_large_dual" DurationType="OneShot" DurationMin="34.94297" DurationMax="34.952969">
+				<Event Id="2852771252" Name="play_wpn_large_dual_1p" ObjectPath="\Events\RXD\play_wpn_large_dual_1p" DurationType="OneShot" DurationMin="34.94297" DurationMax="34.952969">
 					<IncludedMemoryFiles>
 						<File Id="15077003" Language="SFX">
 							<ShortName>15077003.wav</ShortName>
@@ -653,7 +673,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1003605365" Name="RXD_WoTB_Mod_gun_PC_large_extra" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_large_extra" DurationType="OneShot" DurationMin="8.746259" DurationMax="12.591923">
+				<Event Id="4031599380" Name="play_wpn_large_extra_1p" ObjectPath="\Events\RXD\play_wpn_large_extra_1p" DurationType="OneShot" DurationMin="8.746259" DurationMax="12.591923">
 					<IncludedMemoryFiles>
 						<File Id="75555508" Language="SFX">
 							<ShortName>75555508.wav</ShortName>
@@ -861,7 +881,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2026999814" Name="RXD_WoTB_Mod_gun_PC_main" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_main" DurationType="OneShot" DurationMin="6.768707" DurationMax="7.93551">
+				<Event Id="792977691" Name="play_wpn_main_1p" ObjectPath="\Events\RXD\play_wpn_main_1p" DurationType="OneShot" DurationMin="6.768707" DurationMax="7.93551">
 					<IncludedMemoryFiles>
 						<File Id="4098344" Language="SFX">
 							<ShortName>4098344.wav</ShortName>
@@ -1065,7 +1085,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4244462563" Name="RXD_WoTB_Mod_gun_PC_main_dual" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_main_dual" DurationType="OneShot" DurationMin="6.694703" DurationMax="7.301451">
+				<Event Id="1901748294" Name="play_wpn_main_dual_1p" ObjectPath="\Events\RXD\play_wpn_main_dual_1p" DurationType="OneShot" DurationMin="6.694703" DurationMax="7.301451">
 					<IncludedMemoryFiles>
 						<File Id="354666" Language="SFX">
 							<ShortName>354666.wav</ShortName>
@@ -1297,7 +1317,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="969996249" Name="RXD_WoTB_Mod_gun_PC_main_extra" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_main_extra" DurationType="OneShot" DurationMin="6.495782" DurationMax="7.169161">
+				<Event Id="2434065046" Name="play_wpn_main_extra_1p" ObjectPath="\Events\RXD\play_wpn_main_extra_1p" DurationType="OneShot" DurationMin="6.495782" DurationMax="7.169161">
 					<IncludedMemoryFiles>
 						<File Id="4807567" Language="SFX">
 							<ShortName>4807567.wav</ShortName>
@@ -1517,7 +1537,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3460097460" Name="RXD_WoTB_Mod_gun_PC_medium" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_medium" DurationType="OneShot" DurationMin="2.076735" DurationMax="2.303129">
+				<Event Id="687753112" Name="play_wpn_mid_1p" ObjectPath="\Events\RXD\play_wpn_mid_1p" DurationType="OneShot" DurationMin="2.076735" DurationMax="2.303129">
 					<IncludedMemoryFiles>
 						<File Id="208690522" Language="SFX">
 							<ShortName>208690522.wav</ShortName>
@@ -1545,7 +1565,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2941205814" Name="RXD_WoTB_Mod_gun_PC_small" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_small" DurationType="OneShot" DurationMin="1.652971" DurationMax="1.86195">
+				<Event Id="782789765" Name="play_wpn_small_1p" ObjectPath="\Events\RXD\play_wpn_small_1p" DurationType="OneShot" DurationMin="1.652971" DurationMax="1.86195">
 					<IncludedMemoryFiles>
 						<File Id="97281280" Language="SFX">
 							<ShortName>97281280.wav</ShortName>
@@ -1573,7 +1593,17 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1924398521" Name="RXD_WoTB_Mod_gun_PC_tow" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_PC_tow" DurationType="OneShot" DurationMin="4.868934" DurationMax="4.868934">
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="1419538075" Name="RTPC_ext_settings_volume_master_fx" ObjectPath="\Game Parameters\RXD\RTPC_ext_settings_volume_master_fx"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="4019149461" Language="SFX" Hash="1602448128">
+			<ObjectPath>\SoundBanks\Default Work Unit\RXD_WPN_NPC</ObjectPath>
+			<ShortName>RXD_WPN_NPC</ShortName>
+			<Path>RXD_WPN_NPC.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2700211032" Name="guns_tow_tow_npc" ObjectPath="\Events\RXD\guns_tow_tow_npc" DurationType="OneShot" DurationMin="4.877324" DurationMax="4.888934">
 					<IncludedMemoryFiles>
 						<File Id="201771920" Language="SFX">
 							<ShortName>563249656.wav</ShortName>
@@ -1583,27 +1613,9 @@
 							<ShortName>1054270198.wav</ShortName>
 							<Path>SFX\1054270198_3F75BDB9.wem</Path>
 						</File>
-						<File Id="761939463" Language="SFX">
-							<ShortName>20675485.wav</ShortName>
-							<Path>SFX\20675485_3F75BDB9.wem</Path>
-						</File>
-						<File Id="1072280062" Language="SFX">
-							<ShortName>395368146.wav</ShortName>
-							<Path>SFX\395368146_3F75BDB9.wem</Path>
-						</File>
 					</IncludedMemoryFiles>
 				</Event>
-			</IncludedEvents>
-			<GameParameters>
-				<GameParameter Id="1419538075" Name="RTPC_ext_settings_volume_master_fx" ObjectPath="\Game Parameters\RXD\RTPC_ext_settings_volume_master_fx"/>
-			</GameParameters>
-		</SoundBank>
-		<SoundBank Id="4019149461" Language="SFX" Hash="2125772775">
-			<ObjectPath>\SoundBanks\Default Work Unit\RXD_WPN_NPC</ObjectPath>
-			<ShortName>RXD_WPN_NPC</ShortName>
-			<Path>RXD_WPN_NPC.bnk</Path>
-			<IncludedEvents>
-				<Event Id="4053735052" Name="RXD_WoTB_Mod_gun_NPC_auto" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_auto" DurationType="OneShot" DurationMin="4.101338" DurationMax="4.580136">
+				<Event Id="703977083" Name="play_wpn_auto_3p" ObjectPath="\Events\RXD\play_wpn_auto_3p" DurationType="OneShot" DurationMin="4.101338" DurationMax="4.580136">
 					<IncludedMemoryFiles>
 						<File Id="36538557" Language="SFX">
 							<ShortName>36538557.wav</ShortName>
@@ -1679,7 +1691,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3900571368" Name="RXD_WoTB_Mod_gun_NPC_huge" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_huge" DurationType="OneShot" DurationMin="9.582019" DurationMax="10.388005">
+				<Event Id="2013712307" Name="play_wpn_huge_3p" ObjectPath="\Events\RXD\play_wpn_huge_3p" DurationType="OneShot" DurationMin="9.582019" DurationMax="10.388005">
 					<IncludedMemoryFiles>
 						<File Id="144092088" Language="SFX">
 							<ShortName>144092088.wav</ShortName>
@@ -1755,7 +1767,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4273827094" Name="RXD_WoTB_Mod_gun_NPC_large" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_large" DurationType="OneShot" DurationMin="8.978458" DurationMax="11.683583">
+				<Event Id="2413551107" Name="play_wpn_large_3p" ObjectPath="\Events\RXD\play_wpn_large_3p" DurationType="OneShot" DurationMin="8.978458" DurationMax="11.683583">
 					<IncludedMemoryFiles>
 						<File Id="90032220" Language="SFX">
 							<ShortName>90032220.wav</ShortName>
@@ -1831,7 +1843,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="469544595" Name="RXD_WoTB_Mod_gun_NPC_large_dual" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_large_dual" DurationType="OneShot" DurationMin="9.515637" DurationMax="12.66868">
+				<Event Id="2886326426" Name="play_wpn_large_dual_3p" ObjectPath="\Events\RXD\play_wpn_large_dual_3p" DurationType="OneShot" DurationMin="9.515637" DurationMax="12.66868">
 					<IncludedMemoryFiles>
 						<File Id="6266300" Language="SFX">
 							<ShortName>6266300.wav</ShortName>
@@ -1907,7 +1919,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2476030249" Name="RXD_WoTB_Mod_gun_NPC_large_extra" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_large_extra" DurationType="OneShot" DurationMin="8.218685" DurationMax="8.318889">
+				<Event Id="4065154810" Name="play_wpn_large_extra_3p" ObjectPath="\Events\RXD\play_wpn_large_extra_3p" DurationType="OneShot" DurationMin="8.218685" DurationMax="8.318889">
 					<IncludedMemoryFiles>
 						<File Id="2509961" Language="SFX">
 							<ShortName>2509961.wav</ShortName>
@@ -1983,7 +1995,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2710877186" Name="RXD_WoTB_Mod_gun_NPC_main" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_main" DurationType="OneShot" DurationMin="6.867301" DurationMax="7.37814">
+				<Event Id="826533089" Name="play_wpn_main_3p" ObjectPath="\Events\RXD\play_wpn_main_3p" DurationType="OneShot" DurationMin="6.867301" DurationMax="7.37814">
 					<IncludedMemoryFiles>
 						<File Id="21992038" Language="SFX">
 							<ShortName>21992038.wav</ShortName>
@@ -2059,7 +2071,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2981877767" Name="RXD_WoTB_Mod_gun_NPC_main_dual" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_main_dual" DurationType="OneShot" DurationMin="7.189249" DurationMax="7.628693">
+				<Event Id="1868193120" Name="play_wpn_main_dual_3p" ObjectPath="\Events\RXD\play_wpn_main_dual_3p" DurationType="OneShot" DurationMin="7.189249" DurationMax="7.628693">
 					<IncludedMemoryFiles>
 						<File Id="12556214" Language="SFX">
 							<ShortName>12556214.wav</ShortName>
@@ -2135,7 +2147,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1955168333" Name="RXD_WoTB_Mod_gun_NPC_main_extra" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_main_extra" DurationType="OneShot" DurationMin="6.913742" DurationMax="7.296871">
+				<Event Id="2400509872" Name="play_wpn_main_extra_3p" ObjectPath="\Events\RXD\play_wpn_main_extra_3p" DurationType="OneShot" DurationMin="6.913742" DurationMax="7.296871">
 					<IncludedMemoryFiles>
 						<File Id="188664045" Language="SFX">
 							<ShortName>188664045.wav</ShortName>
@@ -2211,7 +2223,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="834042584" Name="RXD_WoTB_Mod_gun_NPC_medium" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_medium" DurationType="OneShot" DurationMin="5.146667" DurationMax="5.52">
+				<Event Id="721308542" Name="play_wpn_mid_3p" ObjectPath="\Events\RXD\play_wpn_mid_3p" DurationType="OneShot" DurationMin="5.146667" DurationMax="5.52">
 					<IncludedMemoryFiles>
 						<File Id="49504214" Language="SFX">
 							<ShortName>49504214.wav</ShortName>
@@ -2287,7 +2299,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="394242994" Name="RXD_WoTB_Mod_gun_NPC_small" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_small" DurationType="OneShot" DurationMin="4.800725" DurationMax="5.230295">
+				<Event Id="749234623" Name="play_wpn_small_3p" ObjectPath="\Events\RXD\play_wpn_small_3p" DurationType="OneShot" DurationMin="4.800725" DurationMax="5.230295">
 					<IncludedMemoryFiles>
 						<File Id="94866558" Language="SFX">
 							<ShortName>94866558.wav</ShortName>
@@ -2360,18 +2372,6 @@
 						<File Id="1073084754" Language="SFX">
 							<ShortName>1073084754.wav</ShortName>
 							<Path>SFX\1073084754_3F75BDB9.wem</Path>
-						</File>
-					</IncludedMemoryFiles>
-				</Event>
-				<Event Id="1960536709" Name="RXD_WoTB_Mod_gun_NPC_tow" ObjectPath="\Events\RXD\RXD_WoTB_Mod_gun_NPC_tow" DurationType="OneShot" DurationMin="4.877324" DurationMax="4.888934">
-					<IncludedMemoryFiles>
-						<File Id="201771920" Language="SFX">
-							<ShortName>563249656.wav</ShortName>
-							<Path>SFX\563249656_3F75BDB9.wem</Path>
-						</File>
-						<File Id="219298883" Language="SFX">
-							<ShortName>1054270198.wav</ShortName>
-							<Path>SFX\1054270198_3F75BDB9.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
