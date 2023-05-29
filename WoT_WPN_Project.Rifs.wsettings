@@ -60,7 +60,7 @@
 				<Property Name="ProjectExplorer\FirstVisible_10_1" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
 				<Property Name="ProjectExplorer\FirstVisible_11_1" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
 				<Property Name="ProjectExplorer\FirstVisible_1_1" Type="string" Value="{BD224D56-C01D-49B0-B46C-B8F0DA9393C4}"/>
-				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}"/>
+				<Property Name="ProjectExplorer\FirstVisible_3_1" Type="string" Value="{0FE8F3E7-B609-434D-AA44-E8AAA6CC2ACE}"/>
 				<Property Name="ProjectExplorer\FirstVisible_4_1" Type="string" Value="{CB6175F1-6080-4A23-92EF-0807E304D0C1}"/>
 				<Property Name="ProjectExplorer\FirstVisible_6_1" Type="string" Value="{C98E673F-A24C-48A8-960F-10565FFE70A0}"/>
 				<Property Name="ProjectExplorer\FirstVisible_8_1" Type="string" Value="{41093F77-829F-4D88-8601-E8B25F3D4781}"/>
@@ -77,11 +77,11 @@
 				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value="2KQUFaYdKkGhfnXKDCFJ80diXAASWH5NhuovPFC14WY="/>
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="uBOVCEmYx0Gg+IagaEhpGvjk/cbs00RClIrfGVjHf0lhoz3f+AkNQ4FPQIDygIjd4KRn4pvZSUaQHNDsw1aU/7E0MwMhkGBOjmcjyWE/xUQ="/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="uBOVCEmYx0Gg+IagaEhpGvjk/cbs00RClIrfGVjHf0lhoz3f+AkNQ4FPQIDygIjdsTQzAyGQYE6OZyPJYT/FRA=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="M8v5QEYvNkuQqDA6z1C35w=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value="SXEVCcBaT0GbKLkawNCKjEfQL0qJG1tLh3/1edNF6z8="/>
-				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="t6G8pTkNkUmVucfH7nT1xg=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value=""/>
 				<Property Name="RTPC\GameParameterSimValue\{1116CE5A-B1BE-48BD-A88F-0099F941EAEA}" Type="Real64" Value="0"/>
@@ -145,6 +145,16 @@
 					</ValueList>
 				</Property>
 			</PropertyList>
+			<PluginInnerObjectList>
+				<List Name="BatchRenameSettings">
+					<PluginInnerObject Name="" ID="{83807859-A5CD-469F-93B1-D61246AB067B}" PluginName="BatchRenameSettings" CompanyID="0" PluginID="992">
+						<PropertyList>
+							<Property Name="ReplaceFindWhat" Type="string" Value="wpn"/>
+							<Property Name="ReplaceReplaceWith" Type="string" Value="wpn_rxd"/>
+						</PropertyList>
+					</PluginInnerObject>
+				</List>
+			</PluginInnerObjectList>
 		</UserProjectSettings>
 	</UserProjectSettingsInfo>
 </WwiseDocument>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="97">
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\WoT_WPN_Project.wproj" DateLow="1684950358" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\WoT_WPN_Project.Rifs.wsettings" DateLow="1684950358" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\WoT_WPN_Project.Rifs.wsettings" DateLow="1685214066" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1684950358" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Virtual Acoustics\Default Work Unit.wwu" DateLow="1684950358" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Triggers\Default Work Unit.wwu" DateLow="1684950358" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Switches\Default Work Unit.wwu" DateLow="1684950358" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\States\Default Work Unit.wwu" DateLow="1684950358" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1684950358" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\SoundBanks\Default Work Unit.wwu" DateLow="1684950358" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\SoundBanks\Default Work Unit.wwu" DateLow="1685213477" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Queries\Factory Queries.wwu" DateLow="1684950358" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Queries\Default Work Unit.wwu" DateLow="1684950358" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Presets\Factory Spatial Audio.wwu" DateLow="1684950358" DateHigh="0"/>
@@ -20,8 +20,8 @@
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1684950355" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Game Parameters\RXD.wwu" DateLow="1684950355" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Game Parameters\Default Work Unit.wwu" DateLow="1684950355" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Events\RXD.wwu" DateLow="1684950355" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Events\Default Work Unit.wwu" DateLow="1684950355" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Events\RXD.wwu" DateLow="1685213477" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Events\Default Work Unit.wwu" DateLow="1685213477" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Effects\Factory Reflect.wwu" DateLow="1684950355" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Effects\Factory McDSP Effects.wwu" DateLow="1684950355" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Work\git\WWISE-WOTPC-REFINED-WPN-PROJ\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1684950355" DateHigh="0"/>

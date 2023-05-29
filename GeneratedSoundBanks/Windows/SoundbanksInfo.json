@@ -26,7 +26,7 @@
    {
     "Id": "1843221531",
     "Language": "SFX",
-    "Hash": "4257865879",
+    "Hash": "3048317362",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_PC",
     "ShortName": "RXD_WPN_PC",
     "Path": "RXD_WPN_PC.bnk",
@@ -66,9 +66,9 @@
       ]
      },
      {
-      "Id": "737532225",
-      "Name": "play_wpn_auto_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_auto_1p",
+      "Id": "759555798",
+      "Name": "play_wpn_rxd_auto_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_auto_1p",
       "DurationType": "OneShot",
       "DurationMin": "2.266009",
       "DurationMax": "2.426009",
@@ -112,9 +112,9 @@
       ]
      },
      {
-      "Id": "2047267481",
-      "Name": "play_wpn_huge_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_huge_1p",
+      "Id": "2640467498",
+      "Name": "play_wpn_rxd_huge_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_huge_1p",
       "DurationType": "OneShot",
       "DurationMin": "9.170329",
       "DurationMax": "13.091923",
@@ -434,9 +434,9 @@
       ]
      },
      {
-      "Id": "2447106537",
-      "Name": "play_wpn_large_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_large_1p",
+      "Id": "2429594840",
+      "Name": "play_wpn_rxd_large_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_large_1p",
       "DurationType": "OneShot",
       "DurationMin": "9.486667",
       "DurationMax": "12.591923",
@@ -738,9 +738,9 @@
       ]
      },
      {
-      "Id": "2852771252",
-      "Name": "play_wpn_large_dual_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_large_dual_1p",
+      "Id": "1219324199",
+      "Name": "play_wpn_rxd_large_dual_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_large_dual_1p",
       "DurationType": "OneShot",
       "DurationMin": "34.94297",
       "DurationMax": "34.952969",
@@ -1030,9 +1030,9 @@
       ]
      },
      {
-      "Id": "4031599380",
-      "Name": "play_wpn_large_extra_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_large_extra_1p",
+      "Id": "3328732045",
+      "Name": "play_wpn_rxd_large_extra_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_large_extra_1p",
       "DurationType": "OneShot",
       "DurationMin": "8.746259",
       "DurationMax": "12.591923",
@@ -1346,9 +1346,9 @@
       ]
      },
      {
-      "Id": "792977691",
-      "Name": "play_wpn_main_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_main_1p",
+      "Id": "2952558740",
+      "Name": "play_wpn_rxd_main_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_main_1p",
       "DurationType": "OneShot",
       "DurationMin": "6.768707",
       "DurationMax": "7.93551",
@@ -1656,9 +1656,9 @@
       ]
      },
      {
-      "Id": "1901748294",
-      "Name": "play_wpn_main_dual_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_main_dual_1p",
+      "Id": "725533707",
+      "Name": "play_wpn_rxd_main_dual_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_main_dual_1p",
       "DurationType": "OneShot",
       "DurationMin": "6.694703",
       "DurationMax": "7.301451",
@@ -2008,9 +2008,9 @@
       ]
      },
      {
-      "Id": "2434065046",
-      "Name": "play_wpn_main_extra_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_main_extra_1p",
+      "Id": "828082913",
+      "Name": "play_wpn_rxd_main_extra_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_main_extra_1p",
       "DurationType": "OneShot",
       "DurationMin": "6.495782",
       "DurationMax": "7.169161",
@@ -2342,9 +2342,9 @@
       ]
      },
      {
-      "Id": "687753112",
-      "Name": "play_wpn_mid_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_mid_1p",
+      "Id": "2807230357",
+      "Name": "play_wpn_rxd_mid_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_mid_1p",
       "DurationType": "OneShot",
       "DurationMin": "2.076735",
       "DurationMax": "2.303129",
@@ -2388,9 +2388,9 @@
       ]
      },
      {
-      "Id": "782789765",
-      "Name": "play_wpn_small_1p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_small_1p",
+      "Id": "2074183520",
+      "Name": "play_wpn_rxd_small_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_small_1p",
       "DurationType": "OneShot",
       "DurationMin": "1.652971",
       "DurationMax": "1.86195",
@@ -2445,7 +2445,7 @@
    {
     "Id": "4019149461",
     "Language": "SFX",
-    "Hash": "1602448128",
+    "Hash": "805838342",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_NPC",
     "ShortName": "RXD_WPN_NPC",
     "Path": "RXD_WPN_NPC.bnk",
@@ -2473,9 +2473,9 @@
       ]
      },
      {
-      "Id": "703977083",
-      "Name": "play_wpn_auto_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_auto_3p",
+      "Id": "726000624",
+      "Name": "play_wpn_rxd_auto_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_auto_3p",
       "DurationType": "OneShot",
       "DurationMin": "4.101338",
       "DurationMax": "4.580136",
@@ -2591,9 +2591,9 @@
       ]
      },
      {
-      "Id": "2013712307",
-      "Name": "play_wpn_huge_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_huge_3p",
+      "Id": "2606912324",
+      "Name": "play_wpn_rxd_huge_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_huge_3p",
       "DurationType": "OneShot",
       "DurationMin": "9.582019",
       "DurationMax": "10.388005",
@@ -2709,9 +2709,9 @@
       ]
      },
      {
-      "Id": "2413551107",
-      "Name": "play_wpn_large_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_large_3p",
+      "Id": "2463150014",
+      "Name": "play_wpn_rxd_large_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_large_3p",
       "DurationType": "OneShot",
       "DurationMin": "8.978458",
       "DurationMax": "11.683583",
@@ -2827,9 +2827,9 @@
       ]
      },
      {
-      "Id": "2886326426",
-      "Name": "play_wpn_large_dual_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_large_dual_3p",
+      "Id": "1252879373",
+      "Name": "play_wpn_rxd_large_dual_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_large_dual_3p",
       "DurationType": "OneShot",
       "DurationMin": "9.515637",
       "DurationMax": "12.66868",
@@ -2945,9 +2945,9 @@
       ]
      },
      {
-      "Id": "4065154810",
-      "Name": "play_wpn_large_extra_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_large_extra_3p",
+      "Id": "3295176871",
+      "Name": "play_wpn_rxd_large_extra_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_large_extra_3p",
       "DurationType": "OneShot",
       "DurationMin": "8.218685",
       "DurationMax": "8.318889",
@@ -3063,9 +3063,9 @@
       ]
      },
      {
-      "Id": "826533089",
-      "Name": "play_wpn_main_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_main_3p",
+      "Id": "2986114170",
+      "Name": "play_wpn_rxd_main_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_main_3p",
       "DurationType": "OneShot",
       "DurationMin": "6.867301",
       "DurationMax": "7.37814",
@@ -3181,9 +3181,9 @@
       ]
      },
      {
-      "Id": "1868193120",
-      "Name": "play_wpn_main_dual_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_main_dual_3p",
+      "Id": "759089105",
+      "Name": "play_wpn_rxd_main_dual_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_main_dual_3p",
       "DurationType": "OneShot",
       "DurationMin": "7.189249",
       "DurationMax": "7.628693",
@@ -3299,9 +3299,9 @@
       ]
      },
      {
-      "Id": "2400509872",
-      "Name": "play_wpn_main_extra_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_main_extra_3p",
+      "Id": "794527515",
+      "Name": "play_wpn_rxd_main_extra_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_main_extra_3p",
       "DurationType": "OneShot",
       "DurationMin": "6.913742",
       "DurationMax": "7.296871",
@@ -3417,9 +3417,9 @@
       ]
      },
      {
-      "Id": "721308542",
-      "Name": "play_wpn_mid_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_mid_3p",
+      "Id": "2773675215",
+      "Name": "play_wpn_rxd_mid_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_mid_3p",
       "DurationType": "OneShot",
       "DurationMin": "5.146667",
       "DurationMax": "5.52",
@@ -3535,9 +3535,9 @@
       ]
      },
      {
-      "Id": "749234623",
-      "Name": "play_wpn_small_3p",
-      "ObjectPath": "\\Events\\RXD\\play_wpn_small_3p",
+      "Id": "2107738694",
+      "Name": "play_wpn_rxd_small_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_small_3p",
       "DurationType": "OneShot",
       "DurationMin": "4.800725",
       "DurationMax": "5.230295",
