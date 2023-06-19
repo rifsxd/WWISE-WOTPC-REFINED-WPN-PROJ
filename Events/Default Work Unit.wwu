@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{0FE8F3E7-B609-434D-AA44-E8AAA6CC2ACE}" SchemaVersion="97">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{0FE8F3E7-B609-434D-AA44-E8AAA6CC2ACE}" PersistMode="Standalone">
-			<ChildrenList>
-				<Event Name="play_wpn_huge_extra_3p" ID="{B27CE637-E69B-4873-B509-41ACB48BBD43}">
-					<ChildrenList>
-						<Action Name="" ID="{FD81A354-63E0-4E82-9A86-2763DB5516D5}" ShortID="791836293">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="huge_extra" ID="{BFC43CCE-E122-497F-BAF5-64D521DA6F8A}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
-				<Event Name="play_wpn_huge_extra_1p" ID="{70519622-265C-4B9E-9A95-9FF782AEC8AA}">
-					<ChildrenList>
-						<Action Name="" ID="{83C1F672-03A0-4AEC-A2D8-FECE3B4F4FC2}" ShortID="948190205">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="huge_extra" ID="{8CD02EF6-516D-49A1-A884-74BEA5B7A205}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
-			</ChildrenList>
-		</WorkUnit>
+		<WorkUnit Name="Default Work Unit" ID="{0FE8F3E7-B609-434D-AA44-E8AAA6CC2ACE}" PersistMode="Standalone"/>
 	</Events>
 </WwiseDocument>

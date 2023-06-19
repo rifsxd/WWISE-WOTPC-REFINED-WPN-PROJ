@@ -29,7 +29,7 @@
 					<PropertyList>
 						<Property Name="BindToBuiltInParam" Type="int16" Value="1"/>
 						<Property Name="InitialValue" Type="Real64" Value="0"/>
-						<Property Name="Max" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="600"/>
 					</PropertyList>
 				</GameParameter>
 				<GameParameter Name="RTPC_int_azimuth" ID="{81F85196-1D2C-431B-8CC8-A9579CC6A6BE}">

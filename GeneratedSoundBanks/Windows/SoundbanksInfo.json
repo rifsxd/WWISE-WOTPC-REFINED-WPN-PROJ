@@ -26,7 +26,7 @@
    {
     "Id": "1843221531",
     "Language": "SFX",
-    "Hash": "3048317362",
+    "Hash": "2817676861",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_PC",
     "ShortName": "RXD_WPN_PC",
     "Path": "RXD_WPN_PC.bnk",
@@ -118,6 +118,328 @@
       "DurationType": "OneShot",
       "DurationMin": "9.170329",
       "DurationMax": "13.091923",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "11353982",
+        "Language": "SFX",
+        "ShortName": "11353982.wav",
+        "Path": "SFX\\11353982_3F75BDB9.wem"
+       },
+       {
+        "Id": "22128936",
+        "Language": "SFX",
+        "ShortName": "22128936.wav",
+        "Path": "SFX\\22128936_3F75BDB9.wem"
+       },
+       {
+        "Id": "33766376",
+        "Language": "SFX",
+        "ShortName": "33766376.wav",
+        "Path": "SFX\\33766376_3F75BDB9.wem"
+       },
+       {
+        "Id": "127438299",
+        "Language": "SFX",
+        "ShortName": "127438299.wav",
+        "Path": "SFX\\127438299_3F75BDB9.wem"
+       },
+       {
+        "Id": "167374603",
+        "Language": "SFX",
+        "ShortName": "167374603.wav",
+        "Path": "SFX\\167374603_3F75BDB9.wem"
+       },
+       {
+        "Id": "239175059",
+        "Language": "SFX",
+        "ShortName": "239175059.wav",
+        "Path": "SFX\\239175059_3F75BDB9.wem"
+       },
+       {
+        "Id": "267557802",
+        "Language": "SFX",
+        "ShortName": "267557802.wav",
+        "Path": "SFX\\267557802_3F75BDB9.wem"
+       },
+       {
+        "Id": "319036605",
+        "Language": "SFX",
+        "ShortName": "319036605.wav",
+        "Path": "SFX\\319036605_3F75BDB9.wem"
+       },
+       {
+        "Id": "376152122",
+        "Language": "SFX",
+        "ShortName": "376152122.wav",
+        "Path": "SFX\\376152122_3F75BDB9.wem"
+       },
+       {
+        "Id": "401016406",
+        "Language": "SFX",
+        "ShortName": "401016406.wav",
+        "Path": "SFX\\401016406_3F75BDB9.wem"
+       },
+       {
+        "Id": "436989121",
+        "Language": "SFX",
+        "ShortName": "436989121.wav",
+        "Path": "SFX\\436989121_3F75BDB9.wem"
+       },
+       {
+        "Id": "493858844",
+        "Language": "SFX",
+        "ShortName": "493858844.wav",
+        "Path": "SFX\\493858844_3F75BDB9.wem"
+       },
+       {
+        "Id": "520081552",
+        "Language": "SFX",
+        "ShortName": "520081552.wav",
+        "Path": "SFX\\520081552_3F75BDB9.wem"
+       },
+       {
+        "Id": "547160248",
+        "Language": "SFX",
+        "ShortName": "547160248.wav",
+        "Path": "SFX\\547160248_3F75BDB9.wem"
+       },
+       {
+        "Id": "549851536",
+        "Language": "SFX",
+        "ShortName": "549851536.wav",
+        "Path": "SFX\\549851536_3F75BDB9.wem"
+       },
+       {
+        "Id": "550408703",
+        "Language": "SFX",
+        "ShortName": "550408703.wav",
+        "Path": "SFX\\550408703_3F75BDB9.wem"
+       },
+       {
+        "Id": "551153453",
+        "Language": "SFX",
+        "ShortName": "551153453.wav",
+        "Path": "SFX\\551153453_3F75BDB9.wem"
+       },
+       {
+        "Id": "562806163",
+        "Language": "SFX",
+        "ShortName": "562806163.wav",
+        "Path": "SFX\\562806163_3F75BDB9.wem"
+       },
+       {
+        "Id": "577899741",
+        "Language": "SFX",
+        "ShortName": "577899741.wav",
+        "Path": "SFX\\577899741_3F75BDB9.wem"
+       },
+       {
+        "Id": "578828525",
+        "Language": "SFX",
+        "ShortName": "578828525.wav",
+        "Path": "SFX\\578828525_3F75BDB9.wem"
+       },
+       {
+        "Id": "609393535",
+        "Language": "SFX",
+        "ShortName": "609393535.wav",
+        "Path": "SFX\\609393535_3F75BDB9.wem"
+       },
+       {
+        "Id": "641994888",
+        "Language": "SFX",
+        "ShortName": "641994888.wav",
+        "Path": "SFX\\641994888_3F75BDB9.wem"
+       },
+       {
+        "Id": "717520859",
+        "Language": "SFX",
+        "ShortName": "717520859.wav",
+        "Path": "SFX\\717520859_3F75BDB9.wem"
+       },
+       {
+        "Id": "719968243",
+        "Language": "SFX",
+        "ShortName": "719968243.wav",
+        "Path": "SFX\\719968243_3F75BDB9.wem"
+       },
+       {
+        "Id": "721913965",
+        "Language": "SFX",
+        "ShortName": "721913965.wav",
+        "Path": "SFX\\721913965_3F75BDB9.wem"
+       },
+       {
+        "Id": "722269395",
+        "Language": "SFX",
+        "ShortName": "722269395.wav",
+        "Path": "SFX\\722269395_3F75BDB9.wem"
+       },
+       {
+        "Id": "724800435",
+        "Language": "SFX",
+        "ShortName": "724800435.wav",
+        "Path": "SFX\\724800435_3F75BDB9.wem"
+       },
+       {
+        "Id": "727265555",
+        "Language": "SFX",
+        "ShortName": "727265555.wav",
+        "Path": "SFX\\727265555_3F75BDB9.wem"
+       },
+       {
+        "Id": "730495266",
+        "Language": "SFX",
+        "ShortName": "730495266.wav",
+        "Path": "SFX\\730495266_3F75BDB9.wem"
+       },
+       {
+        "Id": "744100658",
+        "Language": "SFX",
+        "ShortName": "744100658.wav",
+        "Path": "SFX\\744100658_3F75BDB9.wem"
+       },
+       {
+        "Id": "752910634",
+        "Language": "SFX",
+        "ShortName": "752910634.wav",
+        "Path": "SFX\\752910634_3F75BDB9.wem"
+       },
+       {
+        "Id": "768625753",
+        "Language": "SFX",
+        "ShortName": "768625753.wav",
+        "Path": "SFX\\768625753_3F75BDB9.wem"
+       },
+       {
+        "Id": "774907513",
+        "Language": "SFX",
+        "ShortName": "774907513.wav",
+        "Path": "SFX\\774907513_3F75BDB9.wem"
+       },
+       {
+        "Id": "778570221",
+        "Language": "SFX",
+        "ShortName": "778570221.wav",
+        "Path": "SFX\\778570221_3F75BDB9.wem"
+       },
+       {
+        "Id": "780584832",
+        "Language": "SFX",
+        "ShortName": "780584832.wav",
+        "Path": "SFX\\780584832_3F75BDB9.wem"
+       },
+       {
+        "Id": "794483995",
+        "Language": "SFX",
+        "ShortName": "794483995.wav",
+        "Path": "SFX\\794483995_3F75BDB9.wem"
+       },
+       {
+        "Id": "821195725",
+        "Language": "SFX",
+        "ShortName": "821195725.wav",
+        "Path": "SFX\\821195725_3F75BDB9.wem"
+       },
+       {
+        "Id": "831125006",
+        "Language": "SFX",
+        "ShortName": "831125006.wav",
+        "Path": "SFX\\831125006_3F75BDB9.wem"
+       },
+       {
+        "Id": "833493772",
+        "Language": "SFX",
+        "ShortName": "833493772.wav",
+        "Path": "SFX\\833493772_3F75BDB9.wem"
+       },
+       {
+        "Id": "841660813",
+        "Language": "SFX",
+        "ShortName": "841660813.wav",
+        "Path": "SFX\\841660813_3F75BDB9.wem"
+       },
+       {
+        "Id": "870353712",
+        "Language": "SFX",
+        "ShortName": "870353712.wav",
+        "Path": "SFX\\870353712_3F75BDB9.wem"
+       },
+       {
+        "Id": "871155842",
+        "Language": "SFX",
+        "ShortName": "871155842.wav",
+        "Path": "SFX\\871155842_3F75BDB9.wem"
+       },
+       {
+        "Id": "877172492",
+        "Language": "SFX",
+        "ShortName": "877172492.wav",
+        "Path": "SFX\\877172492_3F75BDB9.wem"
+       },
+       {
+        "Id": "890099559",
+        "Language": "SFX",
+        "ShortName": "890099559.wav",
+        "Path": "SFX\\890099559_3F75BDB9.wem"
+       },
+       {
+        "Id": "903358066",
+        "Language": "SFX",
+        "ShortName": "903358066.wav",
+        "Path": "SFX\\903358066_3F75BDB9.wem"
+       },
+       {
+        "Id": "923648663",
+        "Language": "SFX",
+        "ShortName": "923648663.wav",
+        "Path": "SFX\\923648663_3F75BDB9.wem"
+       },
+       {
+        "Id": "968524354",
+        "Language": "SFX",
+        "ShortName": "968524354.wav",
+        "Path": "SFX\\968524354_3F75BDB9.wem"
+       },
+       {
+        "Id": "977183511",
+        "Language": "SFX",
+        "ShortName": "977183511.wav",
+        "Path": "SFX\\977183511_3F75BDB9.wem"
+       },
+       {
+        "Id": "987422461",
+        "Language": "SFX",
+        "ShortName": "987422461.wav",
+        "Path": "SFX\\987422461_3F75BDB9.wem"
+       },
+       {
+        "Id": "1009334608",
+        "Language": "SFX",
+        "ShortName": "1009334608.wav",
+        "Path": "SFX\\1009334608_3F75BDB9.wem"
+       },
+       {
+        "Id": "1029396328",
+        "Language": "SFX",
+        "ShortName": "1029396328.wav",
+        "Path": "SFX\\1029396328_3F75BDB9.wem"
+       },
+       {
+        "Id": "1036400493",
+        "Language": "SFX",
+        "ShortName": "1036400493.wav",
+        "Path": "SFX\\1036400493_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "611312703",
+      "Name": "play_wpn_rxd_huge_extra_1p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_huge_extra_1p",
+      "DurationType": "OneShot",
+      "DurationMin": "12.040017",
+      "DurationMax": "16.4711",
       "IncludedMemoryFiles": [
        {
         "Id": "11353982",
@@ -2443,9 +2765,386 @@
     ]
    },
    {
+    "Id": "2557130179",
+    "Language": "SFX",
+    "Hash": "2380258512",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_TRACER",
+    "ShortName": "RXD_WPN_TRACER",
+    "Path": "RXD_WPN_TRACER.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3754857809",
+      "Name": "guns_tracers_tracer",
+      "ObjectPath": "\\Events\\RXD\\guns_tracers_tracer",
+      "DurationType": "OneShot",
+      "DurationMin": "0.876009",
+      "DurationMax": "0.885351",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "66025472",
+        "Language": "SFX",
+        "ShortName": "830954500.wav",
+        "Path": "SFX\\830954500_3F75BDB9.wem"
+       },
+       {
+        "Id": "126236875",
+        "Language": "SFX",
+        "ShortName": "28795537.wav",
+        "Path": "SFX\\28795537_3F75BDB9.wem"
+       },
+       {
+        "Id": "338090616",
+        "Language": "SFX",
+        "ShortName": "886156676.wav",
+        "Path": "SFX\\886156676_3F75BDB9.wem"
+       },
+       {
+        "Id": "466090574",
+        "Language": "SFX",
+        "ShortName": "99833137.wav",
+        "Path": "SFX\\99833137_3F75BDB9.wem"
+       },
+       {
+        "Id": "545708692",
+        "Language": "SFX",
+        "ShortName": "778191989.wav",
+        "Path": "SFX\\778191989_3F75BDB9.wem"
+       },
+       {
+        "Id": "599512379",
+        "Language": "SFX",
+        "ShortName": "512441167.wav",
+        "Path": "SFX\\512441167_3F75BDB9.wem"
+       },
+       {
+        "Id": "647055190",
+        "Language": "SFX",
+        "ShortName": "1000623.wav",
+        "Path": "SFX\\1000623_3F75BDB9.wem"
+       },
+       {
+        "Id": "648289013",
+        "Language": "SFX",
+        "ShortName": "173748647.wav",
+        "Path": "SFX\\173748647_3F75BDB9.wem"
+       },
+       {
+        "Id": "849336662",
+        "Language": "SFX",
+        "ShortName": "271351181.wav",
+        "Path": "SFX\\271351181_3F75BDB9.wem"
+       },
+       {
+        "Id": "873913245",
+        "Language": "SFX",
+        "ShortName": "13770210.wav",
+        "Path": "SFX\\13770210_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2691862947",
+      "Name": "guns_tracers_tracer_hard",
+      "ObjectPath": "\\Events\\RXD\\guns_tracers_tracer_hard",
+      "DurationType": "OneShot",
+      "DurationMin": "0.876009",
+      "DurationMax": "0.885351",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "66025472",
+        "Language": "SFX",
+        "ShortName": "830954500.wav",
+        "Path": "SFX\\830954500_3F75BDB9.wem"
+       },
+       {
+        "Id": "126236875",
+        "Language": "SFX",
+        "ShortName": "28795537.wav",
+        "Path": "SFX\\28795537_3F75BDB9.wem"
+       },
+       {
+        "Id": "338090616",
+        "Language": "SFX",
+        "ShortName": "886156676.wav",
+        "Path": "SFX\\886156676_3F75BDB9.wem"
+       },
+       {
+        "Id": "466090574",
+        "Language": "SFX",
+        "ShortName": "99833137.wav",
+        "Path": "SFX\\99833137_3F75BDB9.wem"
+       },
+       {
+        "Id": "545708692",
+        "Language": "SFX",
+        "ShortName": "778191989.wav",
+        "Path": "SFX\\778191989_3F75BDB9.wem"
+       },
+       {
+        "Id": "599512379",
+        "Language": "SFX",
+        "ShortName": "512441167.wav",
+        "Path": "SFX\\512441167_3F75BDB9.wem"
+       },
+       {
+        "Id": "647055190",
+        "Language": "SFX",
+        "ShortName": "1000623.wav",
+        "Path": "SFX\\1000623_3F75BDB9.wem"
+       },
+       {
+        "Id": "648289013",
+        "Language": "SFX",
+        "ShortName": "173748647.wav",
+        "Path": "SFX\\173748647_3F75BDB9.wem"
+       },
+       {
+        "Id": "849336662",
+        "Language": "SFX",
+        "ShortName": "271351181.wav",
+        "Path": "SFX\\271351181_3F75BDB9.wem"
+       },
+       {
+        "Id": "873913245",
+        "Language": "SFX",
+        "ShortName": "13770210.wav",
+        "Path": "SFX\\13770210_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2138103848",
+      "Name": "guns_tracers_tracer_light",
+      "ObjectPath": "\\Events\\RXD\\guns_tracers_tracer_light",
+      "DurationType": "OneShot",
+      "DurationMin": "0.876009",
+      "DurationMax": "0.885351",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "66025472",
+        "Language": "SFX",
+        "ShortName": "830954500.wav",
+        "Path": "SFX\\830954500_3F75BDB9.wem"
+       },
+       {
+        "Id": "126236875",
+        "Language": "SFX",
+        "ShortName": "28795537.wav",
+        "Path": "SFX\\28795537_3F75BDB9.wem"
+       },
+       {
+        "Id": "338090616",
+        "Language": "SFX",
+        "ShortName": "886156676.wav",
+        "Path": "SFX\\886156676_3F75BDB9.wem"
+       },
+       {
+        "Id": "466090574",
+        "Language": "SFX",
+        "ShortName": "99833137.wav",
+        "Path": "SFX\\99833137_3F75BDB9.wem"
+       },
+       {
+        "Id": "545708692",
+        "Language": "SFX",
+        "ShortName": "778191989.wav",
+        "Path": "SFX\\778191989_3F75BDB9.wem"
+       },
+       {
+        "Id": "599512379",
+        "Language": "SFX",
+        "ShortName": "512441167.wav",
+        "Path": "SFX\\512441167_3F75BDB9.wem"
+       },
+       {
+        "Id": "647055190",
+        "Language": "SFX",
+        "ShortName": "1000623.wav",
+        "Path": "SFX\\1000623_3F75BDB9.wem"
+       },
+       {
+        "Id": "648289013",
+        "Language": "SFX",
+        "ShortName": "173748647.wav",
+        "Path": "SFX\\173748647_3F75BDB9.wem"
+       },
+       {
+        "Id": "849336662",
+        "Language": "SFX",
+        "ShortName": "271351181.wav",
+        "Path": "SFX\\271351181_3F75BDB9.wem"
+       },
+       {
+        "Id": "873913245",
+        "Language": "SFX",
+        "ShortName": "13770210.wav",
+        "Path": "SFX\\13770210_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1069259577",
+      "Name": "guns_tracers_tracer_medium",
+      "ObjectPath": "\\Events\\RXD\\guns_tracers_tracer_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "0.876009",
+      "DurationMax": "0.885351",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "66025472",
+        "Language": "SFX",
+        "ShortName": "830954500.wav",
+        "Path": "SFX\\830954500_3F75BDB9.wem"
+       },
+       {
+        "Id": "126236875",
+        "Language": "SFX",
+        "ShortName": "28795537.wav",
+        "Path": "SFX\\28795537_3F75BDB9.wem"
+       },
+       {
+        "Id": "338090616",
+        "Language": "SFX",
+        "ShortName": "886156676.wav",
+        "Path": "SFX\\886156676_3F75BDB9.wem"
+       },
+       {
+        "Id": "466090574",
+        "Language": "SFX",
+        "ShortName": "99833137.wav",
+        "Path": "SFX\\99833137_3F75BDB9.wem"
+       },
+       {
+        "Id": "545708692",
+        "Language": "SFX",
+        "ShortName": "778191989.wav",
+        "Path": "SFX\\778191989_3F75BDB9.wem"
+       },
+       {
+        "Id": "599512379",
+        "Language": "SFX",
+        "ShortName": "512441167.wav",
+        "Path": "SFX\\512441167_3F75BDB9.wem"
+       },
+       {
+        "Id": "647055190",
+        "Language": "SFX",
+        "ShortName": "1000623.wav",
+        "Path": "SFX\\1000623_3F75BDB9.wem"
+       },
+       {
+        "Id": "648289013",
+        "Language": "SFX",
+        "ShortName": "173748647.wav",
+        "Path": "SFX\\173748647_3F75BDB9.wem"
+       },
+       {
+        "Id": "849336662",
+        "Language": "SFX",
+        "ShortName": "271351181.wav",
+        "Path": "SFX\\271351181_3F75BDB9.wem"
+       },
+       {
+        "Id": "873913245",
+        "Language": "SFX",
+        "ShortName": "13770210.wav",
+        "Path": "SFX\\13770210_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2182468074",
+      "Name": "guns_tracers_tracer_tow",
+      "ObjectPath": "\\Events\\RXD\\guns_tracers_tracer_tow",
+      "DurationType": "OneShot",
+      "DurationMin": "0.876009",
+      "DurationMax": "0.885351",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "66025472",
+        "Language": "SFX",
+        "ShortName": "830954500.wav",
+        "Path": "SFX\\830954500_3F75BDB9.wem"
+       },
+       {
+        "Id": "126236875",
+        "Language": "SFX",
+        "ShortName": "28795537.wav",
+        "Path": "SFX\\28795537_3F75BDB9.wem"
+       },
+       {
+        "Id": "338090616",
+        "Language": "SFX",
+        "ShortName": "886156676.wav",
+        "Path": "SFX\\886156676_3F75BDB9.wem"
+       },
+       {
+        "Id": "466090574",
+        "Language": "SFX",
+        "ShortName": "99833137.wav",
+        "Path": "SFX\\99833137_3F75BDB9.wem"
+       },
+       {
+        "Id": "545708692",
+        "Language": "SFX",
+        "ShortName": "778191989.wav",
+        "Path": "SFX\\778191989_3F75BDB9.wem"
+       },
+       {
+        "Id": "599512379",
+        "Language": "SFX",
+        "ShortName": "512441167.wav",
+        "Path": "SFX\\512441167_3F75BDB9.wem"
+       },
+       {
+        "Id": "647055190",
+        "Language": "SFX",
+        "ShortName": "1000623.wav",
+        "Path": "SFX\\1000623_3F75BDB9.wem"
+       },
+       {
+        "Id": "648289013",
+        "Language": "SFX",
+        "ShortName": "173748647.wav",
+        "Path": "SFX\\173748647_3F75BDB9.wem"
+       },
+       {
+        "Id": "849336662",
+        "Language": "SFX",
+        "ShortName": "271351181.wav",
+        "Path": "SFX\\271351181_3F75BDB9.wem"
+       },
+       {
+        "Id": "873913245",
+        "Language": "SFX",
+        "ShortName": "13770210.wav",
+        "Path": "SFX\\13770210_3F75BDB9.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "328402328",
+      "Name": "RTPC_int_distance_600m",
+      "ObjectPath": "\\Game Parameters\\RXD\\RTPC_int_distance_600m"
+     },
+     {
+      "Id": "406513959",
+      "Name": "RTPC_int_azimuth",
+      "ObjectPath": "\\Game Parameters\\RXD\\RTPC_int_azimuth"
+     },
+     {
+      "Id": "1419538075",
+      "Name": "RTPC_ext_settings_volume_master_fx",
+      "ObjectPath": "\\Game Parameters\\RXD\\RTPC_ext_settings_volume_master_fx"
+     }
+    ]
+   },
+   {
     "Id": "4019149461",
     "Language": "SFX",
-    "Hash": "805838342",
+    "Hash": "3061309274",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD_WPN_NPC",
     "ShortName": "RXD_WPN_NPC",
     "Path": "RXD_WPN_NPC.bnk",
@@ -2597,6 +3296,124 @@
       "DurationType": "OneShot",
       "DurationMin": "9.582019",
       "DurationMax": "10.388005",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "144092088",
+        "Language": "SFX",
+        "ShortName": "144092088.wav",
+        "Path": "SFX\\144092088_3F75BDB9.wem"
+       },
+       {
+        "Id": "314570691",
+        "Language": "SFX",
+        "ShortName": "314570691.wav",
+        "Path": "SFX\\314570691_3F75BDB9.wem"
+       },
+       {
+        "Id": "364428987",
+        "Language": "SFX",
+        "ShortName": "364428987.wav",
+        "Path": "SFX\\364428987_3F75BDB9.wem"
+       },
+       {
+        "Id": "413712699",
+        "Language": "SFX",
+        "ShortName": "413712699.wav",
+        "Path": "SFX\\413712699_3F75BDB9.wem"
+       },
+       {
+        "Id": "423800468",
+        "Language": "SFX",
+        "ShortName": "423800468.wav",
+        "Path": "SFX\\423800468_3F75BDB9.wem"
+       },
+       {
+        "Id": "508920729",
+        "Language": "SFX",
+        "ShortName": "508920729.wav",
+        "Path": "SFX\\508920729_3F75BDB9.wem"
+       },
+       {
+        "Id": "510872287",
+        "Language": "SFX",
+        "ShortName": "510872287.wav",
+        "Path": "SFX\\510872287_3F75BDB9.wem"
+       },
+       {
+        "Id": "543165091",
+        "Language": "SFX",
+        "ShortName": "543165091.wav",
+        "Path": "SFX\\543165091_3F75BDB9.wem"
+       },
+       {
+        "Id": "563257505",
+        "Language": "SFX",
+        "ShortName": "563257505.wav",
+        "Path": "SFX\\563257505_3F75BDB9.wem"
+       },
+       {
+        "Id": "631191403",
+        "Language": "SFX",
+        "ShortName": "631191403.wav",
+        "Path": "SFX\\631191403_3F75BDB9.wem"
+       },
+       {
+        "Id": "668447920",
+        "Language": "SFX",
+        "ShortName": "668447920.wav",
+        "Path": "SFX\\668447920_3F75BDB9.wem"
+       },
+       {
+        "Id": "795473775",
+        "Language": "SFX",
+        "ShortName": "795473775.wav",
+        "Path": "SFX\\795473775_3F75BDB9.wem"
+       },
+       {
+        "Id": "896936865",
+        "Language": "SFX",
+        "ShortName": "896936865.wav",
+        "Path": "SFX\\896936865_3F75BDB9.wem"
+       },
+       {
+        "Id": "897655242",
+        "Language": "SFX",
+        "ShortName": "897655242.wav",
+        "Path": "SFX\\897655242_3F75BDB9.wem"
+       },
+       {
+        "Id": "906714518",
+        "Language": "SFX",
+        "ShortName": "906714518.wav",
+        "Path": "SFX\\906714518_3F75BDB9.wem"
+       },
+       {
+        "Id": "929226072",
+        "Language": "SFX",
+        "ShortName": "929226072.wav",
+        "Path": "SFX\\929226072_3F75BDB9.wem"
+       },
+       {
+        "Id": "954455657",
+        "Language": "SFX",
+        "ShortName": "954455657.wav",
+        "Path": "SFX\\954455657_3F75BDB9.wem"
+       },
+       {
+        "Id": "995281507",
+        "Language": "SFX",
+        "ShortName": "995281507.wav",
+        "Path": "SFX\\995281507_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "644867845",
+      "Name": "play_wpn_rxd_huge_extra_3p",
+      "ObjectPath": "\\Events\\RXD\\play_wpn_rxd_huge_extra_3p",
+      "DurationType": "OneShot",
+      "DurationMin": "12.756976",
+      "DurationMax": "13.832839",
       "IncludedMemoryFiles": [
        {
         "Id": "144092088",

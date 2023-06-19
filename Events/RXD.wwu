@@ -245,6 +245,83 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="play_wpn_rxd_huge_extra_1p" ID="{70519622-265C-4B9E-9A95-9FF782AEC8AA}">
+					<ChildrenList>
+						<Action Name="" ID="{83C1F672-03A0-4AEC-A2D8-FECE3B4F4FC2}" ShortID="948190205">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="huge_extra" ID="{8CD02EF6-516D-49A1-A884-74BEA5B7A205}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_rxd_huge_extra_3p" ID="{B27CE637-E69B-4873-B509-41ACB48BBD43}">
+					<ChildrenList>
+						<Action Name="" ID="{FD81A354-63E0-4E82-9A86-2763DB5516D5}" ShortID="791836293">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="huge_extra" ID="{BFC43CCE-E122-497F-BAF5-64D521DA6F8A}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tracers_tracer_light" ID="{AFD8DD3E-4FAC-413E-BFDF-175EACDE7EAE}">
+					<ChildrenList>
+						<Action Name="" ID="{7A9C8634-3E9D-43CC-B9DD-885FE9691081}" ShortID="466684359">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tracer" ID="{24C235C0-59D3-4B6B-BC2D-745260611B46}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tracers_tracer_tow" ID="{5BA0B8FB-9008-4B9F-8D68-2A3F39B72731}">
+					<ChildrenList>
+						<Action Name="" ID="{BCDACAA7-DAB3-4B10-8E1C-BEBEFB52B6CE}" ShortID="457039252">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tracer" ID="{24C235C0-59D3-4B6B-BC2D-745260611B46}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tracers_tracer_medium" ID="{38D85336-A2F8-4A1F-A16F-FF4D4B188685}">
+					<ChildrenList>
+						<Action Name="" ID="{1DCBB1B6-56CB-4F3D-8B17-45854293AC62}" ShortID="1062189343">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tracer" ID="{24C235C0-59D3-4B6B-BC2D-745260611B46}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tracers_tracer_hard" ID="{E9E57157-CFB7-435F-8CE0-F72C25F37043}">
+					<ChildrenList>
+						<Action Name="" ID="{99D9B2A7-B2D2-4254-86C7-BC4F177AA749}" ShortID="739623476">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tracer" ID="{24C235C0-59D3-4B6B-BC2D-745260611B46}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tracers_tracer" ID="{0A3F9381-6BA1-4E09-B8EE-5943B25A75DE}">
+					<ChildrenList>
+						<Action Name="" ID="{D02A6075-256C-474C-9BE1-4ADA07ACD1F0}" ShortID="22315838">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="tracer" ID="{24C235C0-59D3-4B6B-BC2D-745260611B46}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
